@@ -1,0 +1,88 @@
+/* Base styles for the document */
+body {
+    display: grid;
+    grid-template: repeat(11, 1fr) / auto;
+    margin: 0;
+}
+
+p {
+    padding-left: 10px;
+}
+
+/* Header styles */
+header {
+    grid-row: 1 / 2;
+}
+
+/* Navigation bar styles */
+nav {
+    grid-row: 2 / 3;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul li {
+    flex: 1;
+    text-align: center;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+nav ul li a:hover {
+    color: #CCCCCC;
+}
+
+/* Main content area */
+.main-content {
+    grid-column: 1 / 7;
+    grid-row: 3 / 8;
+}
+
+/* Aside content area */
+.aside-content {
+    grid-column: 7 / 10;
+    grid-row: 3 / 8;
+}
+
+/* Footer styles */
+footer {
+    grid-row: 8 / 10;
+    text-align: center;
+}
+
+/* Utility classes for reuse */
+
+/* Span an element across all columns */
+.full-column {
+    grid-column: 1 / 10;
+}
+
+/* Text color utility classes */
+.text-light {
+    color: white;
+}
+
+/* Background color utility classes */
+.bg-secondary {
+    background: #333333;
+}
+
+.bg-light {
+    background: white;
+}
+
+.bg-dark {
+    background: black;
+}
+
+.bg-primary {
+    background: #CCCCCC;
+}
