@@ -18,4 +18,4 @@ let lastModified = document.lastModified;
 
 // Output the current year and last modified date
 document.getElementById("currentYear").textContent = currentYear;
-document.getElementById("lastModified").textContent = `Last modification: ${lastModified}`;
+document.getElementById("lastModified").textContent = `Last Modification: ${lastModified}`;
