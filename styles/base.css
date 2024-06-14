@@ -6,6 +6,9 @@ body {
 
 figcaption {
     font-style: italic;
+    font-size: 0.8rem;
+    color: #333;
+    text-align: center;
 }
 
 p {
@@ -75,10 +78,17 @@ main {
 }
 
 .auto-columns {
-    display: grid;
-    grid-template-columns: auto auto;
+    display: flex;
     gap: 1rem;
     flex-direction: row;
+}
+
+.position-1 {
+    order: 1;
+}
+
+.position-2 {
+    order: 2;
 }
 
 .no-ul-bullets {
@@ -110,6 +120,22 @@ main {
     .break-1100 figure {
         text-align: center;
     }
+
+    .auto-columns {
+        flex-direction: column;
+    }
+
+    .position-1 {
+        order: 2;
+    }
+
+    .position-2 {
+        order: 1;
+    }
+}
+
+figure {
+    margin: 0;
 }
 
 
