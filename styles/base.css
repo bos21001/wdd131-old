@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap');
+
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: "Ubuntu Sans", sans-serif;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+p {
+/*    Increase space between lines*/
+    line-height: 1.5;
+    color: #191818;
+}
+
+.bg-primary {
+    background-color: #174e70;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+}
+
+.bg-primary p {
+    color: #fff;
+}
+
+.top-rounded {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0;
+    background: #333333;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: overline;
+    /*font-style: italic;*/
+}
+
+main {
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;
+    display: grid;
+    /* 1 row and two colluns*/
+    grid-template-columns: repeat(5, 1fr);
+    flex-direction: row;
+}
+
+.card {
+    margin: 1rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    grid-column: span 3;
+    background: white;
+}
+
+.card-aside {
+    grid-column: span 2;
+}
+
+.card-content {
+    padding: 1rem;
+}
+
+.auto-columns {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 1rem;
+    flex-direction: row;
+}
+
+.no-ul-bullets {
+    list-style-type: "-  ";
+    /*padding: 0px;*/
+}
+
+@media (max-width: 737px) {
+    main {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media  (max-width: 1100px) {
+    .break-1100 {
+        grid-template-columns: auto;
+        justify-content: center;
+    }
+
+    .break-1100 ul {
+        margin-top: 0;
+    }
+
+    .break-1100 figure {
+        text-align: center;
+    }
+}
+
+/* stick footer to the bottom*/
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    main {
+        flex: 1;
+    }
+
+    footer {
+        background: #333;
+        color: #fff;
+        text-align: center;
+        padding: 1rem;
+    }
