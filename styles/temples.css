@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: "Ubuntu Sans", sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.active {
+    text-decoration: overline;
+    cursor: default;
+}
+
+figcaption {
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.bg-primary {
+    background-color: #174e70;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 8px;
+}
+
+.bg-primary p, nav a {
+    color: #fff;
+}
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 15px;
+}
+
+.header h1 {
+    padding-bottom: 15px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+}
+
+nav {
+    display: none;
+}
+
+nav a {
+    margin: 0;
+    text-decoration: none;
+    display: block;
+    padding: 1em 0;
+    background: #191818;
+}
+
+nav a:hover {
+    background: white;
+}
+
+#menu {
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: #fff;
+}
+
+#menu::before {
+    content: "≡";
+}
+
+.show {
+    display: block;
+}
+
+#menu.show::before {
+    content: "X";
+}
+
+main {
+    max-width: 100%;
+}
+
+.album {
+    display: grid;
+    grid-template-columns: auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+@media only screen and (min-width: 1000px) {
+    .album {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    main {
+        width: 1200px;
+        margin: 0 auto;
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (min-width: 737px) and (max-width: 999px) {
+    .album {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (min-width: 737px) {
+    header {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding-bottom: 15px;
+    }
+
+    .header h1 {
+        margin: 0 15px;
+        padding: 0;
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    nav a {
+        background: transparent;
+        padding: 0 20px;
+    }
+
+    nav a:hover {
+        text-decoration: overline;
+        background: transparent;
+    }
+
+    #menu {
+        display: none;
+    }
+}
