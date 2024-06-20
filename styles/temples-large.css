@@ -1,0 +1,53 @@
+
+@media only screen and (min-width: 1000px) {
+    .album {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    main {
+        width: 1200px;
+        margin: 0 auto;
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (min-width: 737px) and (max-width: 999px) {
+    .album {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;
+    }
+}
+
+@media only screen and (min-width: 737px) {
+    header {
+        display: flex;
+        justify-content: space-between;
+        margin: 0;
+        padding-bottom: 15px;
+    }
+
+    .header h1 {
+        margin: 0 15px;
+        padding: 0;
+    }
+
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    nav a {
+        background: transparent;
+        padding: 0 20px;
+    }
+
+    nav a:hover {
+        text-decoration: overline;
+        background: transparent;
+    }
+
+    #menu {
+        display: none;
+    }
+}
