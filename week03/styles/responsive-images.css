@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 0.8rem;
+    background: rgba(23, 78, 112, 0.73);
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.hero img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+.hero {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+@media (min-width: 500px) {
+    body {
+        font-size: 1rem;
+    }
+}
