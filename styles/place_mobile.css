@@ -12,7 +12,6 @@ body {
     padding: 0;
     font-family: "Manrope", sans-serif;
     font-style: normal;
-    font-optical-sizing: auto;
     background: var(--blue);
 }
 
