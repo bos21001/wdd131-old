@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1.0" name="viewport">
+	<meta content="ie=edge" http-equiv="X-UA-Compatible">
+	<meta content="A brief description about Brazil" name="description">
+	<meta content="Brazil, country, South America" name="keywords">
+	<meta content="Christopher Mendes" name="author">
+
+	<link href="images/brazil_flag.ico" rel="icon">
+	<link href="styles/place_mobile.css" rel="stylesheet">
+	<link href="styles/place_desktop.css" rel="stylesheet">
+	<script defer src="scripts/place.js"></script>
+	<script defer src="scripts/getdates.js"></script>
+
+	<link href="https://fonts.googleapis.com" rel="preconnect">
+	<link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+	<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+
+	<title>Brazil</title>
+</head>
+<body>
+<header>
+	<h1>Brazil</h1>
+</header>
+<main>
+	<div class="hero">
+		<picture>
+			<source media="(min-width: 1000px)" srcset="images/botanical_garden_large.webp">
+			<source media="(min-width: 600px)" srcset="images/botanical_garden_medium.webp">
+			<img alt="Botanical Garden image hero" height="700" src="images/botanical_garden_small.webp" width="450">
+		</picture>
+		<div class="place-information">
+			<div class="place-data">
+				<h2>Data</h2>
+				<table>
+					<tr>
+						<td><strong>Area:</strong></td>
+						<td>8,515,767 km²</td>
+					</tr>
+					<tr>
+						<td><strong>Population:</strong></td>
+						<td>211,715,973</td>
+					</tr>
+					<tr>
+						<td><strong>Capital:</strong></td>
+						<td>Brasília</td>
+					</tr>
+					<tr>
+						<td><strong>Language:</strong></td>
+						<td>Portuguese</td>
+					</tr>
+					<tr>
+						<td><strong>Currency:</strong></td>
+						<td>Real (R$)</td>
+					</tr>
+					<tr>
+						<td><strong>Time Zone:</strong></td>
+						<td>UTC-2 to UTC-5</td>
+					</tr>
+					<tr>
+						<td><strong>Calling Code:</strong></td>
+						<td>+55</td>
+					</tr>
+					<tr>
+						<td><strong>Internet TLD:</strong></td>
+						<td>.br</td>
+					</tr>
+				</table>
+			</div>
+			<div class="place-weather">
+				<h2>Weather</h2>
+				<!-- import svg image from external file with alternate text -->
+				<object class="weather-icon" data="images/weather_clouds_sun_sunny_icon.svg" type="image/svg+xml" aria-label="A weather icon to support the actual conditions"></object>
+				<table>
+					<tr>
+						<td><strong>Temperature:</strong></td>
+						<td id="temperature"></td>
+					</tr>
+					<tr>
+						<td><strong>Conditions:</strong></td>
+						<td>Partly Cloudy</td>
+					</tr>
+					<tr>
+						<td><strong>Wind:</strong></td>
+						<td id="wind-speed"></td>
+					</tr>
+					<tr>
+						<td><strong>Wind Chill:</strong></td>
+						<td id="wind-chill"></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+	</div>
+</main>
+<footer>
+	<p>&copy; <span id="currentYear"></span> Christopher Mendes - Idaho</p>
+	<p>Brazil</p>
+	<p id="lastModified"></p>
+	<img alt="Brazilian flag" class="flag" src="images/brazil_flag_small.webp" height="70" width="100">
+</footer>
+
+</body>
+</html>
