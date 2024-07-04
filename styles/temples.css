@@ -38,6 +38,7 @@ figcaption {
     padding-bottom: 15px;
     text-align: center;
     margin: 0 auto;
+    font-weight: 500;
 }
 
 header {
@@ -57,10 +58,12 @@ nav a {
     display: block;
     padding: 1em 0;
     background: #191818;
+    cursor: pointer;
 }
 
 nav a:hover {
     background: white;
+    color: black;
 }
 
 #menu {
@@ -86,7 +89,7 @@ main {
     max-width: 100%;
 }
 
-.album {
+.album, #album {
     display: grid;
     grid-template-columns: auto;
 }
