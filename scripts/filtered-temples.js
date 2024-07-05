@@ -101,6 +101,12 @@ function renderTemples(filteredTemples) {
         templeImage.src = temple.imageUrl;
         templeImage.alt = temple.templeName;
         templeImage.loading = "lazy";
+        // add width and height attributes from url to improve performance
+        let width = temple.imageUrl.split("/")[8].split("x")[0];
+        let height = temple.imageUrl.split("/")[8].split("x")[1];
+        templeImage.width = width;
+        templeImage.height = height;
+
         templeCard.appendChild(templeImage);
 
         const templeInfo = document.createElement("div");
