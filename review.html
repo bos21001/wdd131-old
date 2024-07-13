@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="author" content="Christopher Mendes">
+	<meta name="description" content="WDD 131 - Product Review - Christopher Mendes">
+	<title>Product Review</title>
+	<link rel="stylesheet" href="styles/base.css">
+	<link rel="stylesheet" href="styles/form.css">
+	<script src="scripts/getdates.js" defer></script>
+	<script src="scripts/review.js" defer></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Sans:ital,wght@0,100..800;1,100..800&display=swap" rel="stylesheet">
+</head>
+<body>
+<header>
+	<h1 class="bg-primary">Product Review</h1>
+</header>
+<main>
+	<form id="product-review-form">
+		<fieldset>
+			<div class="thank-you-note">
+				<h2> Thank you for your review! </h2>
+				<sub> Review id: #<span id="formSubmissionsCounter"></span></sub>
+				<p> Below is a summary of the information you provided. </p>
+			</div>
+
+			<div class="product">
+				<label for="product">Product Name</label>
+				<p id="product"></p>
+			</div>
+
+			<div class="overall-rating">
+				<label>Overall Rating</label>
+				<section class="star-rating">
+					<input type="radio" name="stars" id="star-a" value="5" readonly disabled/>
+					<label for="star-a"></label>
+
+					<input type="radio" name="stars" id="star-b" value="4" readonly disabled/>
+					<label for="star-b"></label>
+
+					<input type="radio" name="stars" id="star-c" value="3" readonly disabled/>
+					<label for="star-c"></label>
+
+					<input type="radio" name="stars" id="star-d" value="2" readonly disabled/>
+					<label for="star-d"></label>
+
+					<input type="radio" name="stars" id="star-e" value="1" readonly disabled/>
+					<label for="star-e"></label>
+				</section>
+			</div>
+
+			<div class="installation-date">
+				<label for="installation-date">Date of Installation</label>
+				<p id="installation-date"></p>
+			</div>
+
+			<div class="useful-features">
+				<label>Which features did you find useful in the product?</label>
+
+				<div class="row">
+					<input type="checkbox" name="durability" id="durability" value=true readonly disabled>
+					<label for="durability">Durability</label>
+				</div>
+
+				<div class="row">
+					<input type="checkbox" name="ease-of-use" id="easeOfUse" value=true readonly disabled>
+					<label for="easeOfUse">Ease of Use</label>
+				</div>
+
+				<div class="row">
+					<input type="checkbox" name="performance" id="performance" value=true readonly disabled>
+					<label for="performance">Performance</label>
+				</div>
+
+				<div class="row">
+					<input type="checkbox" name="design" id="design" value=true readonly disabled>
+					<label for="design">Design</label>
+				</div>
+			</div>
+		</fieldset>
+		<fieldset>
+			<legend hidden="hidden">Optional User Information</legend>
+
+			<div class="written-review">
+				<label for="written-review">Written Review</label>
+				<p id="written-review"></p>
+			</div>
+
+			<div class="user-name">
+				<label for="user-name">Your Name</label>
+				<p id="user-name"></p>
+			</div>
+		</fieldset>
+
+		<fieldset>
+			<button type="button" id="backButton">Back to Review</button>
+		</fieldset>
+	</form>
+</main>
+<footer  class="bg-primary">
+	<p>&copy; <span id="currentYear"></span> Christopher Mendes - Idaho</p>
+	<p id="lastModified"></p>
+</footer>
+</body>
+</html>
