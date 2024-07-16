@@ -1,11 +1,9 @@
 body {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-style: normal;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    /*color: #333;*/
     background-color: #cff4fc;
 }
 
@@ -15,10 +13,9 @@ body {
     border-radius: 8px;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
-    padding: 0;
 }
 
-.card-header, .card-body {
+.card-header, .card-body, #main-title {
     padding: 20px;
 }
 
@@ -28,9 +25,12 @@ body {
     text-align: center;
 }
 
+.card-body h3 {
+    text-align: left;
+}
+
 .card-header {
     background-color: #F3F3F3;
-    padding: 20px;
     border-radius: 8px 8px 0 0;
     border-bottom: 1px solid #ccc;
 }
@@ -69,16 +69,8 @@ a:hover {
     padding: 50px 0;
 }
 
-#main-title {
-    padding: 20px;
-}
-
-.bg-secondary {
+.bg-secondary, footer p {
     background-color: #404446;
-    color: white;
-}
-
-footer p {
     color: white;
 }
 
@@ -93,7 +85,6 @@ footer p {
 }
 
 .wireframe-image {
-    /*margin: 20px;*/
     padding: 20px;
     margin: 10px;
     border: 1px solid #ccc;
@@ -107,7 +98,6 @@ footer p {
     max-width: 100%;
 }
 
-/* for screens less then 800px */
 @media (max-width: 830px) {
     .card {
         margin: 20px;
