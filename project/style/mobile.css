@@ -1,0 +1,51 @@
+.index-body {
+    background: url('../images/expertvoice_background.jpg') no-repeat center center fixed;
+}
+
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    background-color: var(--blue-background);
+}
+
+.index-nav {
+    padding: 1rem;
+    background-color: var(--white)
+}
+
+.index-card {
+    max-width: 380px;
+    background-color: var(--white);
+    margin: 1rem auto;
+    padding: 1rem;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.icon-circled-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background-color: var(--blue);
+    margin: 0 auto;
+    font-size: 2rem;
+}
+
+.icon-circled-holder > a {
+    color: var(--white);
+}
+
+.icon-circled-holder:hover {
+    background-color: var(--dark-blue);
+}
+
+.icon-link p {
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+}

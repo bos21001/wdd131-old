@@ -1,0 +1,7 @@
+/* larger than 450px */
+@media (min-width: 450px) {
+  .input-group > input {
+      width: 280px;
+      max-width: 280px;
+  }
+}
