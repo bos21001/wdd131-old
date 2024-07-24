@@ -27,19 +27,17 @@
 		<a class="logo-link" href="index.html">
 			<img alt="ExpertVoice Log logo" class="logo-img" src="images/expertlog_logo.png">
 		</a>
-		<button class="btn bg-white dark-font no-border" id="nav-bar-toggler">
-			<svg class="bi bi-list" fill="currentColor" height="2em" viewBox="0 0 16 16" width="2em"
-				 xmlns="http://www.w3.org/2000/svg">
-				<path d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"
-					  fill-rule="evenodd"/>
+		<button class="btn bg-white dark-font no-border" id="nav-bar-toggler" aria-label="Menu" type="button">
+			<svg class="bi bi-list" fill="currentColor" height="2em" viewBox="0 0 16 16" width="2em" xmlns="http://www.w3.org/2000/svg">
+				<path d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5" fill-rule="evenodd"/>
 			</svg>
 		</button>
 		<div class="navbar-collapse collapse">
 			<ul class="navbar-nav">
-				<li><a class="nav-link active" href="#">Data</a></li>
-				<li><a class="nav-link" href="#">Carteira</a></li>
-				<li><a class="nav-link" href="#">Fila</a></li>
-				<li><a class="nav-link" href="#">Erro</a></li>
+				<li><a href="#" class="nav-link active" aria-label="Data">Data</a></li>
+				<li><a href="#" class="nav-link" aria-label="Carteira">Carteira</a></li>
+				<li><a href="#" class="nav-link" aria-label="Fila">Fila</a></li>
+				<li><a href="#" class="nav-link" aria-label="Erro">Erro</a></li>
 			</ul>
 			<div>
 				<svg height="1em" viewBox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
@@ -89,25 +87,25 @@
 						<div>
 							<div class="flow-center" data-bss-hover-animate="pulse">
 								<h2 class="h2 text-bolder">167</h2>
-								<p class="m-0 text-muted-white">Total de Erros</p>
+								<p class="m-0">Total de Erros</p>
 							</div>
 						</div>
 						<div>
 							<div class="flow-center" data-bss-hover-animate="pulse">
 								<h2 class="h2 text-bolder">6</h2>
-								<p class="m-0 text-muted-white">Carterias com erro</p>
+								<p class="m-0">Carterias com erro</p>
 							</div>
 						</div>
 						<div>
 							<div class="flow-center" data-bss-hover-animate="pulse">
 								<h2 class="h2 text-bolder">28</h2>
-								<p class="m-0 text-muted-white">Média de erro por carteira</p>
+								<p class="m-0">Média de erro por carteira</p>
 							</div>
 						</div>
 						<div>
 							<div class="flow-center" data-bss-hover-animate="pulse">
 								<h2 class="h2 text-bolder">1.02 seg</h2>
-								<p class="m-0 text-muted-white">Tempo médio de reposta</p>
+								<p class="m-0">Tempo médio de reposta</p>
 							</div>
 						</div>
 					</div>
@@ -266,7 +264,7 @@
 							<tbody>
 							<tr>
 								<td>
-									<a href="callid_unique.html">
+									<a href="callid_unique.html" aria-label="Gera um relatório com todos os erros de uma data específica">
 										<svg fill="currentColor" height="1em" viewBox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
 											<path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0"></path>
 											<path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8m8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7"></path>

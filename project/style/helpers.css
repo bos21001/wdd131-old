@@ -1,7 +1,7 @@
 :root {
     --blue-background: #CFE2FF;
-    --blue: #0A7EC3;
-    --dark-blue: #0056b3;
+    --blue: #005f99;
+    --dark-blue: #00336c;
     --gray: #404446;
     --white: #F3F3F3;
 }
@@ -136,6 +136,12 @@ h6 {
     padding: 0.5rem;
     border: 1px solid white;
     border-radius: 5px 0 0 5px;
+}
+
+.input-group > button:hover {
+    border: 1px solid var(--dark-blue);
+    background-color: var(--dark-blue);
+    cursor: pointer;
 }
 
 .input-group > button {
