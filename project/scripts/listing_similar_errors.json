@@ -1,0 +1,11 @@
+[
+  "Houve um problema de conexao na API do cliente Bad Request.",
+  "Houve um problema de conexao na API do cliente Not Found.",
+  "Houve um problema de conexao na API do cliente Desconhecido (500).",
+  "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+  "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+  "Houve um problema de conexao na API do cliente Bad Request.",
+  "Undefined offset 1",
+  "Necessario informar um valor para o parametro (cpf).",
+  "Houve um problema de conexao na API do cliente Desconhecido (0)."
+]
