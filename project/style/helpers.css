@@ -216,6 +216,10 @@ h6 {
     padding: 1rem;
 }
 
+.all-border-radius {
+    border-radius: 8px;
+}
+
 .table-responsive {
     /*max-height: 400px;*/
     overflow-y: auto;
@@ -330,6 +334,10 @@ h6 {
     color: rgba(255, 255, 255, 0.65);
 }
 
+.text-align-left {
+    text-align: left;
+}
+
 .no-border {
     border: none;
 }
@@ -415,4 +423,10 @@ h6 {
     100% {
         transform: scale(1);
     }
+}
+
+code {
+    color: #d63384;
+    word-wrap: break-word;
+    overflow-y: auto;
 }
