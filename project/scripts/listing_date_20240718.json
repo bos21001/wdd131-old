@@ -43,7 +43,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 07:57:26:367321",
       "dataSegundosDiff": 0.085818
@@ -59,7 +59,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 07:59:32:897539",
       "dataSegundosDiff": 0.29566099999999995
@@ -70,7 +70,7 @@
       "data": "18/07/2024 07:59:35:050937",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -86,7 +86,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:03:58:017278",
       "dataSegundosDiff": 0.066236
@@ -102,7 +102,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:07:02:466566",
       "dataSegundosDiff": 0.062562
@@ -113,7 +113,7 @@
       "data": "18/07/2024 08:07:07:086952",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -124,7 +124,7 @@
       "data": "18/07/2024 08:07:34:272292",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 08:07:32:880389",
       "dataSegundosDiff": 1.3919030000000001
@@ -140,7 +140,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:09:04:386256",
       "dataSegundosDiff": 0.047038
@@ -151,7 +151,7 @@
       "data": "18/07/2024 08:10:44:029311",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -168,7 +168,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 08:10:47:981838",
       "dataSegundosDiff": 0.005796
@@ -179,7 +179,7 @@
       "data": "18/07/2024 08:11:44:532630",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:11:44:526158",
       "dataSegundosDiff": 0.006472
@@ -196,7 +196,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 08:14:23:309284",
       "dataSegundosDiff": 0.00745
@@ -207,7 +207,7 @@
       "data": "18/07/2024 08:14:49:144903",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 08:14:48:102073",
       "dataSegundosDiff": 1.04283
@@ -218,7 +218,7 @@
       "data": "18/07/2024 08:18:32:290711",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:18:31:132740",
       "dataSegundosDiff": 1.157971
@@ -229,7 +229,7 @@
       "data": "18/07/2024 08:18:53:562180",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -245,7 +245,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:18:54:815867",
       "dataSegundosDiff": 0.19749799999999995
@@ -261,7 +261,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:21:25:853925",
       "dataSegundosDiff": 0.17461499999999996
@@ -272,7 +272,7 @@
       "data": "18/07/2024 08:26:27:447618",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 08:26:25:277159",
       "dataSegundosDiff": 2.170459
@@ -288,7 +288,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:33:37:955939",
       "dataSegundosDiff": 0.05275200000000002
@@ -304,7 +304,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:33:54:119314",
       "dataSegundosDiff": 0.036684
@@ -315,7 +315,7 @@
       "data": "18/07/2024 08:36:38:076564",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:36:36:549847",
       "dataSegundosDiff": 1.526717
@@ -326,7 +326,7 @@
       "data": "18/07/2024 08:37:35:366892",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:37:34:242725",
       "dataSegundosDiff": 1.124167
@@ -342,7 +342,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:39:06:195750",
       "dataSegundosDiff": 0.026834
@@ -358,7 +358,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:39:38:834690",
       "dataSegundosDiff": 0.053926
@@ -374,7 +374,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:42:32:570797",
       "dataSegundosDiff": 0.079413
@@ -385,7 +385,7 @@
       "data": "18/07/2024 08:44:18:952142",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 08:44:18:247735",
       "dataSegundosDiff": 0.704407
@@ -401,7 +401,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:44:36:825757",
       "dataSegundosDiff": 0.034436
@@ -412,7 +412,7 @@
       "data": "18/07/2024 08:46:38:463048",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 08:46:36:450453",
       "dataSegundosDiff": 2.012595
@@ -423,7 +423,7 @@
       "data": "18/07/2024 08:48:38:780108",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 08:48:38:655714",
       "dataSegundosDiff": 0.124394
@@ -434,7 +434,7 @@
       "data": "18/07/2024 08:55:42:533843",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 08:55:41:794375",
       "dataSegundosDiff": 0.739468
@@ -445,7 +445,7 @@
       "data": "18/07/2024 08:58:07:275976",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -456,7 +456,7 @@
       "data": "18/07/2024 09:00:12:180133",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 09:00:11:556457",
       "dataSegundosDiff": 0.623676
@@ -472,7 +472,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:00:32:006836",
       "dataSegundosDiff": 0.032125
@@ -483,7 +483,7 @@
       "data": "18/07/2024 09:00:48:695113",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:00:47:723381",
       "dataSegundosDiff": 0.971732
@@ -494,7 +494,7 @@
       "data": "18/07/2024 09:00:54:294912",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:00:54:229255",
       "dataSegundosDiff": 0.065657
@@ -505,7 +505,7 @@
       "data": "18/07/2024 09:01:13:583653",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 09:01:13:436432",
       "dataSegundosDiff": 0.147221
@@ -516,7 +516,7 @@
       "data": "18/07/2024 09:08:13:116516",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -527,7 +527,7 @@
       "data": "18/07/2024 09:08:23:491676",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 09:08:23:050658",
       "dataSegundosDiff": 0.441018
@@ -538,7 +538,7 @@
       "data": "18/07/2024 09:10:36:147791",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:10:34:913450",
       "dataSegundosDiff": 1.2343410000000001
@@ -549,7 +549,7 @@
       "data": "18/07/2024 09:13:45:034883",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:13:43:611254",
       "dataSegundosDiff": 1.423629
@@ -560,7 +560,7 @@
       "data": "18/07/2024 09:14:15:407564",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -571,7 +571,7 @@
       "data": "18/07/2024 09:18:06:817733",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:18:05:354086",
       "dataSegundosDiff": 1.463647
@@ -591,7 +591,7 @@
         "valorDemais": "0,0",
         "contratos": "35926190ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:19:46:843767",
       "dataSegundosDiff": 1.4275799999999998
@@ -602,7 +602,7 @@
       "data": "18/07/2024 09:20:13:249598",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 09:20:13:147138",
       "dataSegundosDiff": 0.10246
@@ -620,7 +620,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "3132692:307046"
       },
-      "fila": "4097 - otherCompany - NEGOCIACAO",
+      "fila": "4097",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:20:46:410942",
       "dataSegundosDiff": 0.057165
@@ -636,7 +636,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:21:53:870954",
       "dataSegundosDiff": 0.032067
@@ -647,7 +647,7 @@
       "data": "18/07/2024 09:23:29:060685",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:23:27:728393",
       "dataSegundosDiff": 1.332292
@@ -663,7 +663,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:24:26:917295",
       "dataSegundosDiff": 0.031616
@@ -679,7 +679,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:25:06:340532",
       "dataSegundosDiff": 0.031449
@@ -690,7 +690,7 @@
       "data": "18/07/2024 09:25:56:639708",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 09:25:56:463374",
       "dataSegundosDiff": 0.176334
@@ -710,7 +710,7 @@
         "valorDemais": "0,0",
         "contratos": "37080127ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:28:41:224932",
       "dataSegundosDiff": 1.622959
@@ -721,7 +721,7 @@
       "data": "18/07/2024 09:28:57:861259",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:28:55:561579",
       "dataSegundosDiff": 2.29968
@@ -732,7 +732,7 @@
       "data": "18/07/2024 09:32:26:946856",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:32:22:944532",
       "dataSegundosDiff": 4.002324
@@ -743,7 +743,7 @@
       "data": "18/07/2024 09:32:32:859536",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 09:32:32:707760",
       "dataSegundosDiff": 0.151776
@@ -760,7 +760,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:35:04:054460",
       "dataSegundosDiff": 0.003713
@@ -776,7 +776,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:37:29:072040",
       "dataSegundosDiff": 0.03175
@@ -787,7 +787,7 @@
       "data": "18/07/2024 09:38:22:564218",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -798,7 +798,7 @@
       "data": "18/07/2024 09:39:56:523266",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:39:54:635346",
       "dataSegundosDiff": 1.88792
@@ -809,7 +809,7 @@
       "data": "18/07/2024 09:41:18:917147",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:41:18:863844",
       "dataSegundosDiff": 0.053303
@@ -829,7 +829,7 @@
         "valorDemais": "0,0",
         "contratos": "30004081ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:44:37:382511",
       "dataSegundosDiff": 1.691313
@@ -840,7 +840,7 @@
       "data": "18/07/2024 09:45:30:500323",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:45:29:225717",
       "dataSegundosDiff": 1.274606
@@ -851,7 +851,7 @@
       "data": "18/07/2024 09:46:11:098388",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:46:10:035630",
       "dataSegundosDiff": 1.062758
@@ -862,7 +862,7 @@
       "data": "18/07/2024 09:47:32:677024",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 09:47:30:057155",
       "dataSegundosDiff": 2.619869
@@ -878,7 +878,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:48:13:053269",
       "dataSegundosDiff": 0.029134
@@ -894,7 +894,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:49:20:388816",
       "dataSegundosDiff": 0.025621
@@ -905,7 +905,7 @@
       "data": "18/07/2024 09:50:51:955490",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:50:51:890798",
       "dataSegundosDiff": 0.064692
@@ -922,7 +922,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 09:51:57:916842",
       "dataSegundosDiff": 0.004957
@@ -933,7 +933,7 @@
       "data": "18/07/2024 09:54:44:434729",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 09:54:37:115664",
       "dataSegundosDiff": 7.319065
@@ -944,7 +944,7 @@
       "data": "18/07/2024 09:54:58:134879",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 09:54:57:775925",
       "dataSegundosDiff": 0.358954
@@ -960,7 +960,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:57:39:450071",
       "dataSegundosDiff": 1.5298340000000001
@@ -976,7 +976,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 09:59:54:330988",
       "dataSegundosDiff": 1.529728
@@ -987,7 +987,7 @@
       "data": "18/07/2024 10:00:49:928419",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 10:00:49:864155",
       "dataSegundosDiff": 0.064264
@@ -998,7 +998,7 @@
       "data": "18/07/2024 10:01:13:851152",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -1009,7 +1009,7 @@
       "data": "18/07/2024 10:01:46:680871",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 10:01:46:636221",
       "dataSegundosDiff": 0.04465
@@ -1020,7 +1020,7 @@
       "data": "18/07/2024 10:03:18:206884",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 10:03:18:144264",
       "dataSegundosDiff": 0.06262
@@ -1040,7 +1040,7 @@
         "valorDemais": "0,0",
         "contratos": "41296179ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -1051,7 +1051,7 @@
       "data": "18/07/2024 10:03:46:481674",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -1062,7 +1062,7 @@
       "data": "18/07/2024 10:05:01:471811",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:04:57:272594",
       "dataSegundosDiff": 4.199217
@@ -1073,7 +1073,7 @@
       "data": "18/07/2024 10:05:23:608158",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 10:05:23:404225",
       "dataSegundosDiff": 0.203933
@@ -1084,7 +1084,7 @@
       "data": "18/07/2024 10:06:52:948822",
       "crm": "otherCompanya30",
       "metodo": "consultaDivida",
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 10:06:52:885960",
       "dataSegundosDiff": 0.062862
@@ -1095,7 +1095,7 @@
       "data": "18/07/2024 10:08:55:456084",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 10:08:55:295597",
       "dataSegundosDiff": 0.160487
@@ -1111,7 +1111,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:10:19:372477",
       "dataSegundosDiff": 1.078617
@@ -1122,7 +1122,7 @@
       "data": "18/07/2024 10:10:36:000193",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:10:33:151331",
       "dataSegundosDiff": 2.848862
@@ -1133,7 +1133,7 @@
       "data": "18/07/2024 10:13:24:515577",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:13:22:693560",
       "dataSegundosDiff": 1.822017
@@ -1144,7 +1144,7 @@
       "data": "18/07/2024 10:14:15:063421",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 10:14:14:946227",
       "dataSegundosDiff": 0.11719400000000002
@@ -1160,7 +1160,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:15:27:310814",
       "dataSegundosDiff": 0.531539
@@ -1176,7 +1176,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:19:30:985803",
       "dataSegundosDiff": 0.513563
@@ -1192,7 +1192,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:21:30:051743",
       "dataSegundosDiff": 0.036439
@@ -1203,7 +1203,7 @@
       "data": "18/07/2024 10:24:26:118232",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 10:24:25:974159",
       "dataSegundosDiff": 0.144073
@@ -1214,7 +1214,7 @@
       "data": "18/07/2024 10:26:05:225712",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:26:04:594340",
       "dataSegundosDiff": 0.631372
@@ -1230,7 +1230,7 @@
         "contrato": "34897712ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:28:38:103639",
       "dataSegundosDiff": 2.107574
@@ -1241,7 +1241,7 @@
       "data": "18/07/2024 10:29:02:285335",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:29:01:338389",
       "dataSegundosDiff": 0.946946
@@ -1257,7 +1257,7 @@
         "contrato": "37035015ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:29:09:841609",
       "dataSegundosDiff": 1.024009
@@ -1268,7 +1268,7 @@
       "data": "18/07/2024 10:31:14:805205",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 10:31:14:646572",
       "dataSegundosDiff": 0.158633
@@ -1279,7 +1279,7 @@
       "data": "18/07/2024 10:31:29:029285",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:31:21:619375",
       "dataSegundosDiff": 7.40991
@@ -1295,7 +1295,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:31:32:970034",
       "dataSegundosDiff": 0.6409929999999999
@@ -1306,7 +1306,7 @@
       "data": "18/07/2024 10:31:34:956078",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:31:29:037135",
       "dataSegundosDiff": 5.918943
@@ -1317,7 +1317,7 @@
       "data": "18/07/2024 10:32:15:625279",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 10:32:15:471022",
       "dataSegundosDiff": 0.154257
@@ -1328,7 +1328,7 @@
       "data": "18/07/2024 10:33:48:250156",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:33:47:795264",
       "dataSegundosDiff": 0.45489199999999996
@@ -1339,7 +1339,7 @@
       "data": "18/07/2024 10:33:49:384259",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:33:48:169341",
       "dataSegundosDiff": 1.214918
@@ -1350,7 +1350,7 @@
       "data": "18/07/2024 10:35:28:045012",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:35:22:563802",
       "dataSegundosDiff": 5.48121
@@ -1361,7 +1361,7 @@
       "data": "18/07/2024 10:36:55:001089",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -1377,7 +1377,7 @@
         "contrato": "35955017ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:37:03:525469",
       "dataSegundosDiff": 0.772359
@@ -1393,7 +1393,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:45:07:823009",
       "dataSegundosDiff": 0.035377
@@ -1404,7 +1404,7 @@
       "data": "18/07/2024 10:53:20:309693",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:53:18:148734",
       "dataSegundosDiff": 2.160959
@@ -1415,7 +1415,7 @@
       "data": "18/07/2024 10:53:26:201602",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:53:24:429464",
       "dataSegundosDiff": 1.772138
@@ -1426,7 +1426,7 @@
       "data": "18/07/2024 10:53:45:305391",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:53:44:119792",
       "dataSegundosDiff": 1.185599
@@ -1437,7 +1437,7 @@
       "data": "18/07/2024 10:54:45:849764",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:54:44:618406",
       "dataSegundosDiff": 1.231358
@@ -1448,7 +1448,7 @@
       "data": "18/07/2024 10:55:49:378292",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 10:55:48:114898",
       "dataSegundosDiff": 1.263394
@@ -1459,7 +1459,7 @@
       "data": "18/07/2024 10:59:44:914066",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 10:59:43:353133",
       "dataSegundosDiff": 1.560933
@@ -1475,7 +1475,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:00:20:549174",
       "dataSegundosDiff": 0.027723
@@ -1491,7 +1491,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:01:08:686390",
       "dataSegundosDiff": 1.190872
@@ -1507,7 +1507,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:01:21:573387",
       "dataSegundosDiff": 0.58464
@@ -1518,7 +1518,7 @@
       "data": "18/07/2024 11:02:31:987283",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -1534,7 +1534,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:04:11:805046",
       "dataSegundosDiff": 0.55844
@@ -1554,7 +1554,7 @@
         "valorDemais": "0,0",
         "contratos": "34960077ID"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:04:39:396070",
       "dataSegundosDiff": 2.44741
@@ -1570,7 +1570,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:05:09:268229",
       "dataSegundosDiff": 0.021924
@@ -1581,7 +1581,7 @@
       "data": "18/07/2024 11:09:20:936354",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:09:20:474306",
       "dataSegundosDiff": 0.462048
@@ -1592,7 +1592,7 @@
       "data": "18/07/2024 11:11:20:533117",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:11:19:335652",
       "dataSegundosDiff": 1.197465
@@ -1603,7 +1603,7 @@
       "data": "18/07/2024 11:12:46:718136",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 11:12:46:600755",
       "dataSegundosDiff": 0.117381
@@ -1619,7 +1619,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:13:47:155451",
       "dataSegundosDiff": 0.038861
@@ -1630,7 +1630,7 @@
       "data": "18/07/2024 11:14:14:048823",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:14:12:435183",
       "dataSegundosDiff": 1.61364
@@ -1650,7 +1650,7 @@
         "valorDemais": "0,0",
         "contratos": "41146153ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:16:31:443796",
       "dataSegundosDiff": 1.385772
@@ -1661,7 +1661,7 @@
       "data": "18/07/2024 11:19:22:752527",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 11:19:22:523443",
       "dataSegundosDiff": 0.229084
@@ -1672,7 +1672,7 @@
       "data": "18/07/2024 11:19:51:715991",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:19:49:815131",
       "dataSegundosDiff": 1.90086
@@ -1683,7 +1683,7 @@
       "data": "18/07/2024 11:22:03:158853",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 11:22:02:991832",
       "dataSegundosDiff": 0.16702099999999998
@@ -1694,7 +1694,7 @@
       "data": "18/07/2024 11:23:31:681461",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:23:31:092143",
       "dataSegundosDiff": 0.589318
@@ -1710,7 +1710,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:26:43:706530",
       "dataSegundosDiff": 0.094133
@@ -1721,7 +1721,7 @@
       "data": "18/07/2024 11:28:03:764812",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:27:58:345789",
       "dataSegundosDiff": 5.419023
@@ -1737,7 +1737,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:29:33:181170",
       "dataSegundosDiff": 0.086695
@@ -1753,7 +1753,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:30:08:432809",
       "dataSegundosDiff": 0.041447
@@ -1764,7 +1764,7 @@
       "data": "18/07/2024 11:32:04:357114",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 11:32:04:161891",
       "dataSegundosDiff": 0.195223
@@ -1775,7 +1775,7 @@
       "data": "18/07/2024 11:38:29:520526",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:38:28:818929",
       "dataSegundosDiff": 0.701597
@@ -1786,7 +1786,7 @@
       "data": "18/07/2024 11:39:06:303929",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:39:05:014781",
       "dataSegundosDiff": 1.289148
@@ -1802,7 +1802,7 @@
         "contrato": "37301341ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:40:08:609913",
       "dataSegundosDiff": 0.903144
@@ -1822,7 +1822,7 @@
         "valorDemais": "0,0",
         "contratos": "41295783ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:40:17:369982",
       "dataSegundosDiff": 1.612215
@@ -1838,7 +1838,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:41:28:204258",
       "dataSegundosDiff": 0.098279
@@ -1849,7 +1849,7 @@
       "data": "18/07/2024 11:42:01:122641",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:42:00:355618",
       "dataSegundosDiff": 0.767023
@@ -1865,7 +1865,7 @@
         "contrato": "30080763ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:43:23:853133",
       "dataSegundosDiff": 0.736336
@@ -1881,7 +1881,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:46:06:332132",
       "dataSegundosDiff": 0.113029
@@ -1892,7 +1892,7 @@
       "data": "18/07/2024 11:46:42:288132",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:46:39:140061",
       "dataSegundosDiff": 3.148071
@@ -1903,7 +1903,7 @@
       "data": "18/07/2024 11:47:03:244855",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 11:47:03:128465",
       "dataSegundosDiff": 0.11639
@@ -1919,7 +1919,7 @@
         "contrato": "41253984ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:47:20:851889",
       "dataSegundosDiff": 0.886526
@@ -1930,7 +1930,7 @@
       "data": "18/07/2024 11:48:04:695396",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 11:48:04:505499",
       "dataSegundosDiff": 0.189897
@@ -1946,7 +1946,7 @@
         "contrato": "41846342ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:48:41:746667",
       "dataSegundosDiff": 1.562284
@@ -1957,7 +1957,7 @@
       "data": "18/07/2024 11:49:02:052347",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 11:49:00:736285",
       "dataSegundosDiff": 1.316062
@@ -1973,7 +1973,7 @@
         "contrato": "40780020ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:50:05:158577",
       "dataSegundosDiff": 2.132006
@@ -1984,7 +1984,7 @@
       "data": "18/07/2024 11:50:26:984486",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:50:20:558521",
       "dataSegundosDiff": 6.425965
@@ -2000,7 +2000,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:58:08:280018",
       "dataSegundosDiff": 0.819933
@@ -2011,7 +2011,7 @@
       "data": "18/07/2024 11:59:11:595287",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 11:59:00:283812",
       "dataSegundosDiff": 11.311475
@@ -2022,7 +2022,7 @@
       "data": "18/07/2024 12:00:30:227784",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 12:00:30:037712",
       "dataSegundosDiff": 0.190072
@@ -2038,7 +2038,7 @@
         "contrato": "41181429ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:01:39:602983",
       "dataSegundosDiff": 1.963419
@@ -2049,7 +2049,7 @@
       "data": "18/07/2024 12:01:48:992998",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:01:44:216657",
       "dataSegundosDiff": 4.776341
@@ -2065,7 +2065,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:02:55:838110",
       "dataSegundosDiff": 0.24962499999999999
@@ -2081,7 +2081,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:06:33:782910",
       "dataSegundosDiff": 0.501315
@@ -2092,7 +2092,7 @@
       "data": "18/07/2024 12:07:52:225880",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:07:45:993295",
       "dataSegundosDiff": 6.232585
@@ -2108,7 +2108,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:07:52:953569",
       "dataSegundosDiff": 0.589974
@@ -2119,7 +2119,7 @@
       "data": "18/07/2024 12:08:47:021873",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:08:42:621670",
       "dataSegundosDiff": 4.400203
@@ -2139,7 +2139,7 @@
         "valorDemais": "0,0",
         "contratos": "38688015ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:14:29:921629",
       "dataSegundosDiff": 2.08475
@@ -2155,7 +2155,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:18:20:761209",
       "dataSegundosDiff": 0.156425
@@ -2166,7 +2166,7 @@
       "data": "18/07/2024 12:19:53:645627",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 12:19:34:041235",
       "dataSegundosDiff": 19.604392
@@ -2177,7 +2177,7 @@
       "data": "18/07/2024 12:20:32:373824",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 12:20:25:299301",
       "dataSegundosDiff": 7.074523
@@ -2197,7 +2197,7 @@
         "valorDemais": "0,0",
         "contratos": "41009233ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:23:13:015794",
       "dataSegundosDiff": 4.037654
@@ -2217,7 +2217,7 @@
         "valorDemais": "0,0",
         "contratos": "41009437ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:23:13:014653",
       "dataSegundosDiff": 10.258742
@@ -2228,7 +2228,7 @@
       "data": "18/07/2024 12:24:32:630220",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:24:21:689694",
       "dataSegundosDiff": 10.940526
@@ -2244,7 +2244,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:27:19:058801",
       "dataSegundosDiff": 0.17768
@@ -2260,7 +2260,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:28:59:983192",
       "dataSegundosDiff": 0.13344900000000004
@@ -2276,7 +2276,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:29:29:076817",
       "dataSegundosDiff": 0.061534
@@ -2296,7 +2296,7 @@
         "valorDemais": "0,0",
         "contratos": "36849780ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:29:31:953788",
       "dataSegundosDiff": 21.21338
@@ -2312,7 +2312,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:30:13:481041",
       "dataSegundosDiff": 0.11389
@@ -2329,7 +2329,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 12:31:42:696931",
       "dataSegundosDiff": 0.003996
@@ -2345,7 +2345,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:32:21:979694",
       "dataSegundosDiff": 0.33736200000000005
@@ -2356,7 +2356,7 @@
       "data": "18/07/2024 12:32:37:445958",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 12:32:34:355270",
       "dataSegundosDiff": 3.090688
@@ -2372,7 +2372,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:34:45:040083",
       "dataSegundosDiff": 0.299043
@@ -2383,7 +2383,7 @@
       "data": "18/07/2024 12:37:27:138645",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 12:37:21:396834",
       "dataSegundosDiff": 5.741811
@@ -2394,7 +2394,7 @@
       "data": "18/07/2024 12:42:55:249338",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -2405,7 +2405,7 @@
       "data": "18/07/2024 12:44:38:499150",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 12:44:32:923863",
       "dataSegundosDiff": 5.575287
@@ -2422,7 +2422,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 13:02:58:181730",
       "dataSegundosDiff": 0.009059
@@ -2433,7 +2433,7 @@
       "data": "18/07/2024 13:11:26:044952",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 13:11:15:942908",
       "dataSegundosDiff": 10.102044
@@ -2444,7 +2444,7 @@
       "data": "18/07/2024 13:16:10:747758",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 13:16:10:569833",
       "dataSegundosDiff": 0.177925
@@ -2461,7 +2461,7 @@
         "dataEntrada": "19/07/2024",
         "parcelas": "[0].parcelas"
       },
-      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "fila": "4384",
       "carteira": "otherCompany",
       "datafinal": "18/07/2024 13:17:41:943922",
       "dataSegundosDiff": 0.016709
@@ -2472,7 +2472,7 @@
       "data": "18/07/2024 13:35:55:145488",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 13:35:53:356689",
       "dataSegundosDiff": 1.788799
@@ -2483,7 +2483,7 @@
       "data": "18/07/2024 13:40:37:746398",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 13:40:37:457341",
       "dataSegundosDiff": 0.289057
@@ -2494,7 +2494,7 @@
       "data": "18/07/2024 13:42:32:892313",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -2510,7 +2510,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 13:53:36:437410",
       "dataSegundosDiff": 0.277055
@@ -2521,7 +2521,7 @@
       "data": "18/07/2024 13:53:41:646049",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 13:53:39:541919",
       "dataSegundosDiff": 2.10413
@@ -2532,7 +2532,7 @@
       "data": "18/07/2024 13:55:11:961811",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 13:55:11:108645",
       "dataSegundosDiff": 0.853166
@@ -2543,7 +2543,7 @@
       "data": "18/07/2024 13:55:30:022314",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 13:55:29:806069",
       "dataSegundosDiff": 0.21624500000000002
@@ -2554,7 +2554,7 @@
       "data": "18/07/2024 13:57:59:592491",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 13:57:52:632573",
       "dataSegundosDiff": 6.959918
@@ -2565,7 +2565,7 @@
       "data": "18/07/2024 13:59:10:341298",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 13:59:08:320274",
       "dataSegundosDiff": 2.021024
@@ -2576,7 +2576,7 @@
       "data": "18/07/2024 13:59:30:364272",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 13:59:27:869464",
       "dataSegundosDiff": 2.494808
@@ -2592,7 +2592,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:01:46:551852",
       "dataSegundosDiff": 0.138434
@@ -2603,7 +2603,7 @@
       "data": "18/07/2024 14:02:57:163498",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 14:02:56:979261",
       "dataSegundosDiff": 0.18423699999999998
@@ -2619,7 +2619,7 @@
         "contrato": "33895027ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:04:15:122512",
       "dataSegundosDiff": 0.766418
@@ -2635,7 +2635,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:04:28:334829",
       "dataSegundosDiff": 0.196769
@@ -2646,7 +2646,7 @@
       "data": "18/07/2024 14:04:49:362424",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -2657,7 +2657,7 @@
       "data": "18/07/2024 14:05:33:311616",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:05:31:793828",
       "dataSegundosDiff": 1.517788
@@ -2673,7 +2673,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:09:32:351731",
       "dataSegundosDiff": 0.272116
@@ -2689,7 +2689,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:09:38:410920",
       "dataSegundosDiff": 0.404131
@@ -2705,7 +2705,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:10:40:784290",
       "dataSegundosDiff": 0.22646100000000002
@@ -2716,7 +2716,7 @@
       "data": "18/07/2024 14:17:17:895832",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 14:17:17:754780",
       "dataSegundosDiff": 0.141052
@@ -2727,7 +2727,7 @@
       "data": "18/07/2024 14:23:41:276619",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 14:23:37:924788",
       "dataSegundosDiff": 3.351831
@@ -2738,7 +2738,7 @@
       "data": "18/07/2024 14:25:02:486983",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:24:57:672721",
       "dataSegundosDiff": 4.814262
@@ -2749,7 +2749,7 @@
       "data": "18/07/2024 14:30:55:572599",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -2760,7 +2760,7 @@
       "data": "18/07/2024 14:32:42:214358",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 14:32:41:672301",
       "dataSegundosDiff": 0.542057
@@ -2771,7 +2771,7 @@
       "data": "18/07/2024 14:34:57:388076",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:34:56:074277",
       "dataSegundosDiff": 1.313799
@@ -2787,7 +2787,7 @@
         "contrato": "30097035ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 14:35:56:190625",
       "dataSegundosDiff": 2.1965500000000002
@@ -2798,7 +2798,7 @@
       "data": "18/07/2024 14:37:29:192211",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:37:27:947193",
       "dataSegundosDiff": 1.245018
@@ -2809,7 +2809,7 @@
       "data": "18/07/2024 14:38:04:601986",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:38:03:521999",
       "dataSegundosDiff": 1.079987
@@ -2825,7 +2825,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:40:10:344913",
       "dataSegundosDiff": 0.052508
@@ -2836,7 +2836,7 @@
       "data": "18/07/2024 14:42:38:530927",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:42:37:530795",
       "dataSegundosDiff": 1.000132
@@ -2852,7 +2852,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:43:09:804901",
       "dataSegundosDiff": 0.057443
@@ -2863,7 +2863,7 @@
       "data": "18/07/2024 14:44:22:491785",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:44:18:659926",
       "dataSegundosDiff": 3.831859
@@ -2874,7 +2874,7 @@
       "data": "18/07/2024 14:44:29:737150",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:44:24:390962",
       "dataSegundosDiff": 5.346188
@@ -2890,7 +2890,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:45:41:202123",
       "dataSegundosDiff": 0.031608
@@ -2901,7 +2901,7 @@
       "data": "18/07/2024 14:48:38:167811",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:48:32:754926",
       "dataSegundosDiff": 5.412885
@@ -2917,7 +2917,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:48:44:627769",
       "dataSegundosDiff": 0.45224200000000003
@@ -2928,7 +2928,7 @@
       "data": "18/07/2024 14:49:27:875004",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -2944,7 +2944,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:50:54:848530",
       "dataSegundosDiff": 0.136692
@@ -2955,7 +2955,7 @@
       "data": "18/07/2024 14:51:41:364080",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 14:51:41:030060",
       "dataSegundosDiff": 0.33402
@@ -2966,7 +2966,7 @@
       "data": "18/07/2024 14:53:24:206270",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 14:53:24:103330",
       "dataSegundosDiff": 0.10294
@@ -2977,7 +2977,7 @@
       "data": "18/07/2024 14:58:26:311278",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 14:58:22:526337",
       "dataSegundosDiff": 3.784941
@@ -2988,7 +2988,7 @@
       "data": "18/07/2024 14:59:52:978676",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 14:59:52:797804",
       "dataSegundosDiff": 0.180872
@@ -2999,7 +2999,7 @@
       "data": "18/07/2024 15:00:19:196088",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:00:17:439599",
       "dataSegundosDiff": 1.756489
@@ -3010,7 +3010,7 @@
       "data": "18/07/2024 15:04:31:328037",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:04:29:941090",
       "dataSegundosDiff": 1.3869470000000002
@@ -3021,7 +3021,7 @@
       "data": "18/07/2024 15:04:53:384219",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:04:53:171157",
       "dataSegundosDiff": 0.213062
@@ -3032,7 +3032,7 @@
       "data": "18/07/2024 15:07:03:547789",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:07:02:212872",
       "dataSegundosDiff": 1.334917
@@ -3043,7 +3043,7 @@
       "data": "18/07/2024 15:08:35:042135",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:08:33:418321",
       "dataSegundosDiff": 1.6238139999999999
@@ -3054,7 +3054,7 @@
       "data": "18/07/2024 15:10:37:779463",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:10:36:726260",
       "dataSegundosDiff": 1.053203
@@ -3070,7 +3070,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:10:42:403498",
       "dataSegundosDiff": 0.039445
@@ -3090,7 +3090,7 @@
         "valorDemais": "0,0",
         "contratos": "41295522ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:12:10:589861",
       "dataSegundosDiff": 1.464729
@@ -3101,7 +3101,7 @@
       "data": "18/07/2024 15:13:00:817993",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3112,7 +3112,7 @@
       "data": "18/07/2024 15:13:13:200057",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:13:13:033341",
       "dataSegundosDiff": 0.166716
@@ -3123,7 +3123,7 @@
       "data": "18/07/2024 15:13:16:914311",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3134,7 +3134,7 @@
       "data": "18/07/2024 15:13:27:609550",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3145,7 +3145,7 @@
       "data": "18/07/2024 15:13:30:972082",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3156,7 +3156,7 @@
       "data": "18/07/2024 15:13:31:076079",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3167,7 +3167,7 @@
       "data": "18/07/2024 15:19:43:059328",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:19:42:737520",
       "dataSegundosDiff": 0.321808
@@ -3183,7 +3183,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:21:53:356295",
       "dataSegundosDiff": 0.036595
@@ -3194,7 +3194,7 @@
       "data": "18/07/2024 15:22:20:405334",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:22:19:233998",
       "dataSegundosDiff": 1.171336
@@ -3210,7 +3210,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:24:52:694943",
       "dataSegundosDiff": 0.867299
@@ -3226,7 +3226,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:29:32:478351",
       "dataSegundosDiff": 0.050861
@@ -3237,7 +3237,7 @@
       "data": "18/07/2024 15:29:58:788048",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:29:57:375582",
       "dataSegundosDiff": 1.412466
@@ -3248,7 +3248,7 @@
       "data": "18/07/2024 15:32:24:701807",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:32:24:517393",
       "dataSegundosDiff": 0.184414
@@ -3259,7 +3259,7 @@
       "data": "18/07/2024 15:33:04:102024",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:33:03:532836",
       "dataSegundosDiff": 0.569188
@@ -3275,7 +3275,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:33:27:427175",
       "dataSegundosDiff": 0.097029
@@ -3291,7 +3291,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:33:58:227207",
       "dataSegundosDiff": 0.118616
@@ -3302,7 +3302,7 @@
       "data": "18/07/2024 15:34:00:783337",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 15:33:59:855414",
       "dataSegundosDiff": 0.927923
@@ -3313,7 +3313,7 @@
       "data": "18/07/2024 15:34:14:673326",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:34:13:211125",
       "dataSegundosDiff": 1.4622009999999999
@@ -3329,7 +3329,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:34:32:011057",
       "dataSegundosDiff": 0.209342
@@ -3340,7 +3340,7 @@
       "data": "18/07/2024 15:35:20:486382",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:35:17:634270",
       "dataSegundosDiff": 2.852112
@@ -3351,7 +3351,7 @@
       "data": "18/07/2024 15:42:20:543239",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:42:17:643510",
       "dataSegundosDiff": 2.899729
@@ -3362,7 +3362,7 @@
       "data": "18/07/2024 15:45:31:694275",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:45:30:358177",
       "dataSegundosDiff": 1.336098
@@ -3382,7 +3382,7 @@
         "valorDemais": "0,0",
         "contratos": "30121436ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:47:02:957665",
       "dataSegundosDiff": 1.284392
@@ -3393,7 +3393,7 @@
       "data": "18/07/2024 15:47:54:779177",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 15:47:53:869454",
       "dataSegundosDiff": 0.9097230000000001
@@ -3404,7 +3404,7 @@
       "data": "18/07/2024 15:48:52:194737",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:48:52:086116",
       "dataSegundosDiff": 0.108621
@@ -3415,7 +3415,7 @@
       "data": "18/07/2024 15:50:17:884151",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:50:16:507472",
       "dataSegundosDiff": 1.376679
@@ -3426,7 +3426,7 @@
       "data": "18/07/2024 15:54:52:213241",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 15:54:50:507041",
       "dataSegundosDiff": 1.7062
@@ -3446,7 +3446,7 @@
         "valorDemais": "0,0",
         "contratos": "40694965ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:56:18:106680",
       "dataSegundosDiff": 1.279884
@@ -3457,7 +3457,7 @@
       "data": "18/07/2024 15:56:39:558868",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 15:56:37:065619",
       "dataSegundosDiff": 2.493249
@@ -3473,7 +3473,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:58:04:257386",
       "dataSegundosDiff": 0.069273
@@ -3484,7 +3484,7 @@
       "data": "18/07/2024 15:58:37:293396",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:58:36:967271",
       "dataSegundosDiff": 0.326125
@@ -3504,7 +3504,7 @@
         "valorDemais": "0,0",
         "contratos": "38939646ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 15:58:40:555994",
       "dataSegundosDiff": 1.128916
@@ -3515,7 +3515,7 @@
       "data": "18/07/2024 15:59:16:014603",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 15:59:15:883404",
       "dataSegundosDiff": 0.13119899999999995
@@ -3526,7 +3526,7 @@
       "data": "18/07/2024 16:00:18:274481",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:00:16:044206",
       "dataSegundosDiff": 2.230275
@@ -3537,7 +3537,7 @@
       "data": "18/07/2024 16:01:42:711629",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:01:41:338875",
       "dataSegundosDiff": 1.372754
@@ -3548,7 +3548,7 @@
       "data": "18/07/2024 16:04:42:323846",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:04:41:303148",
       "dataSegundosDiff": 1.020698
@@ -3568,7 +3568,7 @@
         "valorDemais": "0,0",
         "contratos": "41009281ID"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:10:37:659824",
       "dataSegundosDiff": 1.214246
@@ -3579,7 +3579,7 @@
       "data": "18/07/2024 16:10:39:100928",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:10:38:011070",
       "dataSegundosDiff": 1.089858
@@ -3595,7 +3595,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:13:17:669520",
       "dataSegundosDiff": 0.139501
@@ -3606,7 +3606,7 @@
       "data": "18/07/2024 16:15:25:129250",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -3622,7 +3622,7 @@
         "contrato": "38937806ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:16:56:348358",
       "dataSegundosDiff": 0.794457
@@ -3638,7 +3638,7 @@
         "contrato": "38939721ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:18:49:452744",
       "dataSegundosDiff": 1.771389
@@ -3649,7 +3649,7 @@
       "data": "18/07/2024 16:22:00:296412",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:21:57:032874",
       "dataSegundosDiff": 3.263538
@@ -3660,7 +3660,7 @@
       "data": "18/07/2024 16:22:10:829560",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:22:09:535898",
       "dataSegundosDiff": 1.2936619999999999
@@ -3676,7 +3676,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:23:04:522743",
       "dataSegundosDiff": 0.036276
@@ -3687,7 +3687,7 @@
       "data": "18/07/2024 16:27:24:555081",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 16:27:24:303230",
       "dataSegundosDiff": 0.251851
@@ -3698,7 +3698,7 @@
       "data": "18/07/2024 16:29:41:695426",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 16:29:40:839616",
       "dataSegundosDiff": 0.85581
@@ -3709,7 +3709,7 @@
       "data": "18/07/2024 16:32:37:930250",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 16:32:37:775181",
       "dataSegundosDiff": 0.155069
@@ -3720,7 +3720,7 @@
       "data": "18/07/2024 16:33:59:320677",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 16:33:59:152292",
       "dataSegundosDiff": 0.168385
@@ -3731,7 +3731,7 @@
       "data": "18/07/2024 16:36:00:657989",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 16:36:00:504472",
       "dataSegundosDiff": 0.153517
@@ -3742,7 +3742,7 @@
       "data": "18/07/2024 16:36:03:584420",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 16:36:03:318680",
       "dataSegundosDiff": 0.26574
@@ -3753,7 +3753,7 @@
       "data": "18/07/2024 16:36:32:566738",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 16:36:32:393061",
       "dataSegundosDiff": 0.173677
@@ -3764,7 +3764,7 @@
       "data": "18/07/2024 16:37:44:417872",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:37:42:104930",
       "dataSegundosDiff": 2.312942
@@ -3775,7 +3775,7 @@
       "data": "18/07/2024 16:39:25:102783",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 16:39:24:920066",
       "dataSegundosDiff": 0.18271700000000002
@@ -3791,7 +3791,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:41:52:148772",
       "dataSegundosDiff": 0.04235
@@ -3807,7 +3807,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:42:11:944215",
       "dataSegundosDiff": 0.051965
@@ -3823,7 +3823,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:45:50:687927",
       "dataSegundosDiff": 0.047677
@@ -3834,7 +3834,7 @@
       "data": "18/07/2024 16:52:15:812841",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:52:14:568236",
       "dataSegundosDiff": 1.244605
@@ -3845,7 +3845,7 @@
       "data": "18/07/2024 16:57:27:390363",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:57:26:119010",
       "dataSegundosDiff": 1.271353
@@ -3865,7 +3865,7 @@
         "valorDemais": "0,0",
         "contratos": "38886315ID"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 16:57:32:360606",
       "dataSegundosDiff": 1.372538
@@ -3881,7 +3881,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 17:02:38:633704",
       "dataSegundosDiff": 0.044172
@@ -3897,7 +3897,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 17:04:16:559699",
       "dataSegundosDiff": 0.55237
@@ -3913,7 +3913,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 17:06:27:827914",
       "dataSegundosDiff": 1.086722
@@ -3924,7 +3924,7 @@
       "data": "18/07/2024 17:08:00:268943",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:08:00:137165",
       "dataSegundosDiff": 0.131778
@@ -3935,7 +3935,7 @@
       "data": "18/07/2024 17:11:36:104166",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:11:35:769962",
       "dataSegundosDiff": 0.33420399999999995
@@ -3946,7 +3946,7 @@
       "data": "18/07/2024 17:12:06:916944",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:12:05:457087",
       "dataSegundosDiff": 1.459857
@@ -3957,7 +3957,7 @@
       "data": "18/07/2024 17:13:38:070379",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:13:37:908551",
       "dataSegundosDiff": 0.16182799999999997
@@ -3968,7 +3968,7 @@
       "data": "18/07/2024 17:18:50:696633",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:18:50:552970",
       "dataSegundosDiff": 0.143663
@@ -3979,7 +3979,7 @@
       "data": "18/07/2024 17:19:05:420602",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:19:05:293797",
       "dataSegundosDiff": 0.126805
@@ -3995,7 +3995,7 @@
         "contrato": "41254953ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:25:52:943048",
       "dataSegundosDiff": 0.904307
@@ -4011,7 +4011,7 @@
         "contrato": "40192145ID",
         "vencimento": "22/07/2024"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:30:44:960770",
       "dataSegundosDiff": 1.675867
@@ -4022,7 +4022,7 @@
       "data": "18/07/2024 17:34:03:604939",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:34:01:050768",
       "dataSegundosDiff": 2.554171
@@ -4033,7 +4033,7 @@
       "data": "18/07/2024 17:39:35:414705",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:39:34:088266",
       "dataSegundosDiff": 1.326439
@@ -4044,7 +4044,7 @@
       "data": "18/07/2024 17:40:14:866994",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:40:13:823878",
       "dataSegundosDiff": 1.043116
@@ -4055,7 +4055,7 @@
       "data": "18/07/2024 17:42:02:785443",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:42:02:675965",
       "dataSegundosDiff": 0.109478
@@ -4066,7 +4066,7 @@
       "data": "18/07/2024 17:42:22:666370",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:42:20:125471",
       "dataSegundosDiff": 2.540899
@@ -4077,7 +4077,7 @@
       "data": "18/07/2024 17:43:30:098799",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:43:29:956884",
       "dataSegundosDiff": 0.141915
@@ -4088,7 +4088,7 @@
       "data": "18/07/2024 17:47:19:497588",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:47:18:429626",
       "dataSegundosDiff": 1.067962
@@ -4099,7 +4099,7 @@
       "data": "18/07/2024 17:47:44:397634",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:47:44:101272",
       "dataSegundosDiff": 0.296362
@@ -4110,7 +4110,7 @@
       "data": "18/07/2024 17:52:36:883069",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 17:52:36:756014",
       "dataSegundosDiff": 0.127055
@@ -4121,7 +4121,7 @@
       "data": "18/07/2024 17:53:18:462044",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 17:53:18:310001",
       "dataSegundosDiff": 0.152043
@@ -4132,7 +4132,7 @@
       "data": "18/07/2024 17:53:29:504812",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:53:29:346267",
       "dataSegundosDiff": 0.158545
@@ -4152,7 +4152,7 @@
         "valorDemais": "0,0",
         "contratos": "41979342ID"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 17:54:10:826543",
       "dataSegundosDiff": 1.063943
@@ -4163,7 +4163,7 @@
       "data": "18/07/2024 17:54:30:249567",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:54:30:107671",
       "dataSegundosDiff": 0.141896
@@ -4174,7 +4174,7 @@
       "data": "18/07/2024 17:54:52:232343",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:54:51:933951",
       "dataSegundosDiff": 0.298392
@@ -4185,7 +4185,7 @@
       "data": "18/07/2024 17:55:57:231788",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:55:57:058085",
       "dataSegundosDiff": 0.173703
@@ -4196,7 +4196,7 @@
       "data": "18/07/2024 17:57:42:415483",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 17:57:42:246903",
       "dataSegundosDiff": 0.16858
@@ -4207,7 +4207,7 @@
       "data": "18/07/2024 18:01:11:919762",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:01:11:752600",
       "dataSegundosDiff": 0.167162
@@ -4218,7 +4218,7 @@
       "data": "18/07/2024 18:09:25:336307",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:09:25:228713",
       "dataSegundosDiff": 0.107594
@@ -4229,7 +4229,7 @@
       "data": "18/07/2024 18:11:06:389388",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:10:59:288978",
       "dataSegundosDiff": 7.10041
@@ -4240,7 +4240,7 @@
       "data": "18/07/2024 18:14:02:058962",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:14:00:931746",
       "dataSegundosDiff": 1.127216
@@ -4251,7 +4251,7 @@
       "data": "18/07/2024 18:14:04:210156",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:14:04:034652",
       "dataSegundosDiff": 0.175504
@@ -4262,7 +4262,7 @@
       "data": "18/07/2024 18:15:16:428696",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:15:14:465212",
       "dataSegundosDiff": 1.963484
@@ -4273,7 +4273,7 @@
       "data": "18/07/2024 18:16:13:739975",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:16:13:574975",
       "dataSegundosDiff": 0.165
@@ -4284,7 +4284,7 @@
       "data": "18/07/2024 18:16:18:721365",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:16:15:162484",
       "dataSegundosDiff": 3.558881
@@ -4295,7 +4295,7 @@
       "data": "18/07/2024 18:17:01:369790",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:17:00:349913",
       "dataSegundosDiff": 1.019877
@@ -4306,7 +4306,7 @@
       "data": "18/07/2024 18:18:32:917747",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:18:31:850962",
       "dataSegundosDiff": 1.066785
@@ -4317,7 +4317,7 @@
       "data": "18/07/2024 18:18:37:652656",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:18:36:906244",
       "dataSegundosDiff": 0.7464120000000001
@@ -4328,7 +4328,7 @@
       "data": "18/07/2024 18:19:01:340216",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:19:00:187782",
       "dataSegundosDiff": 1.152434
@@ -4339,7 +4339,7 @@
       "data": "18/07/2024 18:20:00:493583",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:19:59:982340",
       "dataSegundosDiff": 0.511243
@@ -4350,7 +4350,7 @@
       "data": "18/07/2024 18:24:21:311494",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:24:20:995664",
       "dataSegundosDiff": 0.31583000000000006
@@ -4361,7 +4361,7 @@
       "data": "18/07/2024 18:25:08:945474",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 18:25:06:872075",
       "dataSegundosDiff": 2.073399
@@ -4372,7 +4372,7 @@
       "data": "18/07/2024 18:30:04:370834",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:30:04:135363",
       "dataSegundosDiff": 0.235471
@@ -4383,7 +4383,7 @@
       "data": "18/07/2024 18:30:14:365206",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:30:14:120681",
       "dataSegundosDiff": 0.244525
@@ -4394,7 +4394,7 @@
       "data": "18/07/2024 18:31:30:410256",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "fila": "4600",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:31:30:254751",
       "dataSegundosDiff": 0.155505
@@ -4405,7 +4405,7 @@
       "data": "18/07/2024 18:45:53:466558",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:45:50:257581",
       "dataSegundosDiff": 3.208977
@@ -4416,7 +4416,7 @@
       "data": "18/07/2024 18:54:18:026016",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:54:16:672949",
       "dataSegundosDiff": 1.353067
@@ -4427,7 +4427,7 @@
       "data": "18/07/2024 18:54:55:564262",
       "crm": "company2",
       "metodo": "Geral",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 18:54:54:515650",
       "dataSegundosDiff": 1.048612
@@ -4438,7 +4438,7 @@
       "data": "18/07/2024 18:56:25:182270",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 18:56:25:039290",
       "dataSegundosDiff": 0.14298
@@ -4458,7 +4458,7 @@
         "valorDemais": "0,0",
         "contratos": "41009265ID"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:00:34:258977",
       "dataSegundosDiff": 1.036544
@@ -4469,7 +4469,7 @@
       "data": "18/07/2024 19:09:43:722447",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:09:42:580796",
       "dataSegundosDiff": 1.141651
@@ -4480,7 +4480,7 @@
       "data": "18/07/2024 19:12:27:477266",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:12:24:910253",
       "dataSegundosDiff": 2.567013
@@ -4491,7 +4491,7 @@
       "data": "18/07/2024 19:13:35:424967",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:13:33:838970",
       "dataSegundosDiff": 1.5859969999999999
@@ -4502,7 +4502,7 @@
       "data": "18/07/2024 19:19:01:649786",
       "crm": "companyBapi2",
       "metodo": "consultaDivida",
-      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "fila": "4639",
       "carteira": "companyB",
       "datafinal": "18/07/2024 19:19:01:513038",
       "dataSegundosDiff": 0.136748
@@ -4513,7 +4513,7 @@
       "data": "18/07/2024 19:21:33:407704",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:21:32:304964",
       "dataSegundosDiff": 1.10274
@@ -4524,7 +4524,7 @@
       "data": "18/07/2024 19:28:51:225693",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:28:50:165298",
       "dataSegundosDiff": 1.060395
@@ -4535,7 +4535,7 @@
       "data": "18/07/2024 19:38:47:881534",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:38:46:392975",
       "dataSegundosDiff": 1.488559
@@ -4546,7 +4546,7 @@
       "data": "18/07/2024 19:41:44:338050",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 19:41:44:098701",
       "dataSegundosDiff": 0.239349
@@ -4557,7 +4557,7 @@
       "data": "18/07/2024 19:42:34:463387",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:42:33:983600",
       "dataSegundosDiff": 0.47978699999999996
@@ -4568,7 +4568,7 @@
       "data": "18/07/2024 19:46:17:511328",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:46:16:219050",
       "dataSegundosDiff": 1.292278
@@ -4579,7 +4579,7 @@
       "data": "18/07/2024 19:51:54:254313",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -4590,7 +4590,7 @@
       "data": "18/07/2024 19:52:51:783734",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:52:50:557286",
       "dataSegundosDiff": 1.226448
@@ -4601,7 +4601,7 @@
       "data": "18/07/2024 19:53:06:453067",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:53:05:119386",
       "dataSegundosDiff": 1.333681
@@ -4612,7 +4612,7 @@
       "data": "18/07/2024 19:53:29:584911",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 19:53:28:111745",
       "dataSegundosDiff": 1.473166
@@ -4628,7 +4628,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:53:51:593709",
       "dataSegundosDiff": 0.04728
@@ -4644,7 +4644,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 19:54:32:561340",
       "dataSegundosDiff": 0.042169
@@ -4655,7 +4655,7 @@
       "data": "18/07/2024 20:00:11:835674",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 20:00:10:547483",
       "dataSegundosDiff": 1.2881909999999999
@@ -4666,7 +4666,7 @@
       "data": "18/07/2024 20:11:48:726949",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 20:11:47:352005",
       "dataSegundosDiff": 1.374944
@@ -4677,7 +4677,7 @@
       "data": "18/07/2024 20:13:40:168081",
       "crm": "companyC",
       "metodo": "consultaDivida",
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 20:13:39:936848",
       "dataSegundosDiff": 0.23123300000000002
@@ -4697,7 +4697,7 @@
         "valorDemais": "0,0",
         "contratos": "41009080ID"
       },
-      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "fila": "4326",
       "carteira": "company",
       "datafinal": "18/07/2024 20:15:14:917194",
       "dataSegundosDiff": 1.910633
@@ -4712,7 +4712,7 @@
         "parcelas_originais": "183574408:841884998:72|183574408:841884999:73|183574408:841885000:74|183574408:841885001:75|183501827:841885002:22|183501827:841885003:23|183501827:841885004:24|183501827:841885005:25|183501827:841885006:26|183501827:841885007:27|183501827:841885008:28",
         "data_calculo": "2024-07-19 00:00:00"
       },
-      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "fila": "4358",
       "carteira": "companyC",
       "datafinal": "18/07/2024 20:20:38:479793",
       "dataSegundosDiff": 60.031528
@@ -4723,7 +4723,7 @@
       "data": "18/07/2024 20:26:12:685958",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 20:26:11:473599",
       "dataSegundosDiff": 1.212359
@@ -4739,7 +4739,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 20:29:18:726214",
       "dataSegundosDiff": 0.059066
@@ -4755,7 +4755,7 @@
         "contrato": "[0].detalhesContratos[0].contrato",
         "vencimento": "22/07/2024"
       },
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 20:51:25:254648",
       "dataSegundosDiff": 0.065826
@@ -4766,7 +4766,7 @@
       "data": "18/07/2024 20:53:56:180929",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": "18/07/2024 20:53:56:174068",
       "dataSegundosDiff": 0.006861
@@ -4777,7 +4777,7 @@
       "data": "18/07/2024 20:55:06:093811",
       "crm": "company2",
       "metodo": "consultaDivida",
-      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "fila": "4636",
       "carteira": "company",
       "datafinal": null,
       "dataSegundosDiff": null
@@ -4793,7 +4793,7 @@
         "contrato": "40054758ID",
         "dataVencimento": "22/07/2024"
       },
-      "fila": "3081 - RETURN RECEPTIVO",
+      "fila": "3081",
       "carteira": "RETURN",
       "datafinal": "18/07/2024 21:28:21:152216",
       "dataSegundosDiff": 60.034313
@@ -4804,7 +4804,7 @@
       "data": "18/07/2024 21:31:04:416942",
       "crm": "companyD",
       "metodo": "consultaDivida",
-      "fila": "3081 - RETURN RECEPTIVO",
+      "fila": "3081",
       "carteira": "RETURN",
       "datafinal": "18/07/2024 21:30:49:383277",
       "dataSegundosDiff": 15.033665

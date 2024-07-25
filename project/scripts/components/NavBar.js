@@ -35,12 +35,13 @@ export default function NavBar() {
 
     const urlParams = new URLSearchParams(window.location.search);
     const id = urlParams.get('id');
-    if (id) {
-        const element = document.getElementById(id);
-        if (element) {
-            element.className = element.className + ' active';
+
+    navBar.querySelectorAll('.nav-link').forEach(link => {
+        if (link.id === id) {
+            link.className = link.className + ' active' + ' disabled';
+            link.removeAttribute('href');
         }
-    }
+    });
 
     return navBar;
 }

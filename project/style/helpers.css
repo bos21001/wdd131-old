@@ -299,10 +299,11 @@ h6 {
 
 .active {
     color: black;
+    text-decoration: underline;
 }
 
 .disabled {
-    cursor: none;
+    cursor: default;
 }
 
 .btn {

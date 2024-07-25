@@ -2,7 +2,7 @@ export default function AlertCard(props) {
     const {titles} = props;
 
     return (
-        `<div class="row no-wrap card space-around bg-danger">
+        `<div class="row no-wrap card space-around bg-danger disabled">
             ${titles.map(title => `
                 <div>
                     <div class="flow-center" data-bss-hover-animate="pulse">
