@@ -1,0 +1,4813 @@
+{
+  "data_log": "2024/07/18",
+  "total_erros": 369,
+  "contagem_erros_similares": {
+    "Houve um problema de conexao na API do cliente Bad Request.": 260,
+    "Undefined offset 1": 7,
+    "Necessario informar um valor para o parametro (cpf).": 2,
+    "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.": 6,
+    "Houve um problema de conexao na API do cliente Desconhecido (500).": 24,
+    "Houve um problema de conexao na API do cliente Not Found.": 50,
+    "Houve um problema de conexao na API do cliente Desconhecido (0).": 7,
+    "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).": 13
+  },
+  "contagem_metodos": {
+    "consultaProposta": 106,
+    "consultaDivida": 215,
+    "Geral": 28,
+    "gravarAcordo": 20
+  },
+  "contagem_crms": {
+    "company2": 282,
+    "otherCompanya30": 14,
+    "companyBapi2": 19,
+    "companyC": 51,
+    "otherCompany": 1,
+    "companyD": 2
+  },
+  "media_tempo_resposta": {
+    "consultaProposta": 1.5088700188679245,
+    "consultaDivida": 1.5823375116279075,
+    "Geral": 0.9903682142857144,
+    "gravarAcordo": 2.9768799999999995
+  },
+  "dados": [
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "j4bzt6f0wpbjhwu0ihujcmcrgn1skhg22840",
+      "data": "18/07/2024 07:57:26:453139",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 07:57:26:367321",
+      "dataSegundosDiff": 0.085818
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zz53aypwhvlm6m74fcbp0ytrxtevs5158808",
+      "data": "18/07/2024 07:59:33:193200",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 07:59:32:897539",
+      "dataSegundosDiff": 0.29566099999999995
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xdm2dllzindafob5jaiy14bz4hijz4349168",
+      "data": "18/07/2024 07:59:35:050937",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vkaxiymxsya3qud1esa8nxvlzuig5nh137944",
+      "data": "18/07/2024 08:03:58:083514",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:03:58:017278",
+      "dataSegundosDiff": 0.066236
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "2okchesb4sjsh4zoirgioxze6ybr0yh199691",
+      "data": "18/07/2024 08:07:02:529128",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:07:02:466566",
+      "dataSegundosDiff": 0.062562
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "eof1t7rqgwg1ussuc6p5yt89cfol4ei189013",
+      "data": "18/07/2024 08:07:07:086952",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bfgujczpwilbfrjetdh0rps701sxstk197699",
+      "data": "18/07/2024 08:07:34:272292",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:07:32:880389",
+      "dataSegundosDiff": 1.3919030000000001
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "cyq10xj2buziawjnvdnovg3bxysqsry233162",
+      "data": "18/07/2024 08:09:04:433294",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:09:04:386256",
+      "dataSegundosDiff": 0.047038
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "z6bq6se2lcwt3zmqoxxnjaf1zm5ckk2269156",
+      "data": "18/07/2024 08:10:44:029311",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "qrszbacwgzg95tam6wq1hv7splbwckt275430",
+      "data": "18/07/2024 08:10:47:987634",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 08:10:47:981838",
+      "dataSegundosDiff": 0.005796
+    },
+    {
+      "mensagem": "Necessario informar um valor para o parametro (cpf).",
+      "callid": "mzb7qaktccgd61iyrv4b6xxfpuxte3j281044",
+      "data": "18/07/2024 08:11:44:532630",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:11:44:526158",
+      "dataSegundosDiff": 0.006472
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "tq9w7w4gtwicfuyvvzh4aucpnklbgto348277",
+      "data": "18/07/2024 08:14:23:316734",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 08:14:23:309284",
+      "dataSegundosDiff": 0.00745
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "tk8gdiugztjbwtnftv0u3wwgbep9yxi317747",
+      "data": "18/07/2024 08:14:49:144903",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:14:48:102073",
+      "dataSegundosDiff": 1.04283
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vxpayvfmff783svxvls8wpjbeldnfgc417052",
+      "data": "18/07/2024 08:18:32:290711",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:18:31:132740",
+      "dataSegundosDiff": 1.157971
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "li0ttxsjtsev6omu6uxisvllspo11io413919",
+      "data": "18/07/2024 08:18:53:562180",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xhqehemzcvceso5u38w9y9bu2xfnaia438029",
+      "data": "18/07/2024 08:18:55:013365",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:18:54:815867",
+      "dataSegundosDiff": 0.19749799999999995
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fdg93bnekhkvdacinlpwjunsifcy1d0457483",
+      "data": "18/07/2024 08:21:26:028540",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:21:25:853925",
+      "dataSegundosDiff": 0.17461499999999996
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "88wmonijokbxmx3nmhwa4ibwcx08der560510",
+      "data": "18/07/2024 08:26:27:447618",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:26:25:277159",
+      "dataSegundosDiff": 2.170459
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "aiqj9nvvpgengqtjd7g3th0zndrk5eu723374",
+      "data": "18/07/2024 08:33:38:008691",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:33:37:955939",
+      "dataSegundosDiff": 0.05275200000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "h9rprsr7uotmrhyjypcm7oirohayido729198",
+      "data": "18/07/2024 08:33:54:155998",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:33:54:119314",
+      "dataSegundosDiff": 0.036684
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mputb7c2rlfdynzsidxau5c20x8nvbx798582",
+      "data": "18/07/2024 08:36:38:076564",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:36:36:549847",
+      "dataSegundosDiff": 1.526717
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xnizwquqzvqvrhty1xx8kyrkv81j9uw814559",
+      "data": "18/07/2024 08:37:35:366892",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:37:34:242725",
+      "dataSegundosDiff": 1.124167
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vsuinxfjwsncrzul5y8bvm9oyogtlri849281",
+      "data": "18/07/2024 08:39:06:222584",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:39:06:195750",
+      "dataSegundosDiff": 0.026834
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "gz1hncec8vogvatals77ta2vyunc6vj845326",
+      "data": "18/07/2024 08:39:38:888616",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:39:38:834690",
+      "dataSegundosDiff": 0.053926
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rhgrxkzezhpyfzcw406rnajweafdrvi890110",
+      "data": "18/07/2024 08:42:32:650210",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:42:32:570797",
+      "dataSegundosDiff": 0.079413
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "js9p9vp8uewbigcuh8vfbawwuvdozw2878624",
+      "data": "18/07/2024 08:44:18:952142",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:44:18:247735",
+      "dataSegundosDiff": 0.704407
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mewdhap9cl9xidw3abyjwqt4vhdhyol943657",
+      "data": "18/07/2024 08:44:36:860193",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:44:36:825757",
+      "dataSegundosDiff": 0.034436
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "b0wsu8luir6i7xcf3mw2qnsmechjmw7988949",
+      "data": "18/07/2024 08:46:38:463048",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:46:36:450453",
+      "dataSegundosDiff": 2.012595
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "ohovvk9b1nanfuan4kgged5aoqhgpuq1037384",
+      "data": "18/07/2024 08:48:38:780108",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 08:48:38:655714",
+      "dataSegundosDiff": 0.124394
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "ppujmafbajmfx1bnfe0zaslnatkbwfu1131312",
+      "data": "18/07/2024 08:55:42:533843",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 08:55:41:794375",
+      "dataSegundosDiff": 0.739468
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mxx8rx0fzyohlivg1hhnjiajalc5sxw1211392",
+      "data": "18/07/2024 08:58:07:275976",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "ftvobek9iv1l6d6odqjghcqeljpwwxp1224229",
+      "data": "18/07/2024 09:00:12:180133",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:00:11:556457",
+      "dataSegundosDiff": 0.623676
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "1t6ta5f4wx6aaezrdybfsbn78mygfvh1268133",
+      "data": "18/07/2024 09:00:32:038961",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:00:32:006836",
+      "dataSegundosDiff": 0.032125
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ksbiq0swvlxtsz8fg29jmz4kwo6dkn91320948",
+      "data": "18/07/2024 09:00:48:695113",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:00:47:723381",
+      "dataSegundosDiff": 0.971732
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "u0zkqyrutj577nmz1d4fdc09jyfpl6m1327337",
+      "data": "18/07/2024 09:00:54:294912",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:00:54:229255",
+      "dataSegundosDiff": 0.065657
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "0frjemygqg8eqhqyuwr0pi6neznbgh81272243",
+      "data": "18/07/2024 09:01:13:583653",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 09:01:13:436432",
+      "dataSegundosDiff": 0.147221
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "6l7zioysgr2qj5gshocef9dacqkbbnp1453166",
+      "data": "18/07/2024 09:08:13:116516",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "qyzbcnqonvjve4rzwp92fe1rdmw5we81377487",
+      "data": "18/07/2024 09:08:23:491676",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:08:23:050658",
+      "dataSegundosDiff": 0.441018
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wrjvwnitej6ji3wtxxkkz61z0ordby51523869",
+      "data": "18/07/2024 09:10:36:147791",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:10:34:913450",
+      "dataSegundosDiff": 1.2343410000000001
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zsaivcmc0pwzzjflqdlsyjkofk7zayg1569582",
+      "data": "18/07/2024 09:13:45:034883",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:13:43:611254",
+      "dataSegundosDiff": 1.423629
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wvghrwh8qusw9s8kaia6nwnhepnl4vk1544994",
+      "data": "18/07/2024 09:14:15:407564",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vedmgie0jgzohfoiw4z63ue3svz81c21619682",
+      "data": "18/07/2024 09:18:06:817733",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:18:05:354086",
+      "dataSegundosDiff": 1.463647
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "stdh440acyevbi4dobemquwpkcqqflg1699389",
+      "data": "18/07/2024 09:19:48:271347",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "35926190ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "7f036baf-ee24-491d-98f1-feca8fffb815",
+        "valorEntrada": "1,62",
+        "valorDemais": "0,0",
+        "contratos": "35926190ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:19:46:843767",
+      "dataSegundosDiff": 1.4275799999999998
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "nt1lprkt6incppyhriiodkel7hwxx4u1685060",
+      "data": "18/07/2024 09:20:13:249598",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 09:20:13:147138",
+      "dataSegundosDiff": 0.10246
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vmufta3oxbqzuktfmtf9cmpnjussc0j1680056",
+      "data": "18/07/2024 09:20:46:468107",
+      "crm": "otherCompany",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "clienteCodigo": "4458691",
+        "carteiraCodigo": "23",
+        "contratoCodigo": "307046",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "3132692:307046"
+      },
+      "fila": "4097 - otherCompany - NEGOCIACAO",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:20:46:410942",
+      "dataSegundosDiff": 0.057165
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "py70f6mrriljdt1dlec7utikahyh1ie1765782",
+      "data": "18/07/2024 09:21:53:903021",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:21:53:870954",
+      "dataSegundosDiff": 0.032067
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "cokxta3ph7yqsmeiy4g74kywwnfadem1805900",
+      "data": "18/07/2024 09:23:29:060685",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:23:27:728393",
+      "dataSegundosDiff": 1.332292
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "7a6cay6dyhzsj1vnrm01gaxdqmyanvq1776091",
+      "data": "18/07/2024 09:24:26:948911",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:24:26:917295",
+      "dataSegundosDiff": 0.031616
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "h0sc4zfeoodsovgtsjfcawskyrz19al1818122",
+      "data": "18/07/2024 09:25:06:371981",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:25:06:340532",
+      "dataSegundosDiff": 0.031449
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "lswarcnvmij6sdzxyrfcfgr8bbs0w1y1782895",
+      "data": "18/07/2024 09:25:56:639708",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 09:25:56:463374",
+      "dataSegundosDiff": 0.176334
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ifpqw74yk7uoqucnd1vriy8d0fg0exp1807718",
+      "data": "18/07/2024 09:28:42:847891",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "37080127ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "b51aa9e1-ce30-4454-b5da-0a3e5539116c",
+        "valorEntrada": "2,40",
+        "valorDemais": "0,0",
+        "contratos": "37080127ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:28:41:224932",
+      "dataSegundosDiff": 1.622959
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9ui4zmajbrmt7tay9jzzdllaidkh6of1837147",
+      "data": "18/07/2024 09:28:57:861259",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:28:55:561579",
+      "dataSegundosDiff": 2.29968
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "swrk5elw1zy796chu8rug6kddjdhb4a1962060",
+      "data": "18/07/2024 09:32:26:946856",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:32:22:944532",
+      "dataSegundosDiff": 4.002324
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "v1zaorkg8shugcf5s46asvjd1ulmfgn1921030",
+      "data": "18/07/2024 09:32:32:859536",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 09:32:32:707760",
+      "dataSegundosDiff": 0.151776
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "kvkfhtb6vkxln1z7h11svxgcxy44d5g2023077",
+      "data": "18/07/2024 09:35:04:058173",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:35:04:054460",
+      "dataSegundosDiff": 0.003713
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wnafhbyz8s8zf16jxgiytzusfv1zvck2077306",
+      "data": "18/07/2024 09:37:29:103790",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:37:29:072040",
+      "dataSegundosDiff": 0.03175
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vb9swikcx6tpfw2zvtuhvnrjhgvriyp2126856",
+      "data": "18/07/2024 09:38:22:564218",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "kss4nnghjlvwvxq7qiyjgednpiggb9r2072865",
+      "data": "18/07/2024 09:39:56:523266",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:39:54:635346",
+      "dataSegundosDiff": 1.88792
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "gwfcmymr7ychxc7bcz9xqdfwjsa7tpf2128037",
+      "data": "18/07/2024 09:41:18:917147",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:41:18:863844",
+      "dataSegundosDiff": 0.053303
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "pxlf85qpqjksflciqxn8htwlke53gxm2142387",
+      "data": "18/07/2024 09:44:39:073824",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "30004081ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "fce883b5-2714-4e42-8912-343d5a318175",
+        "valorEntrada": "2,65",
+        "valorDemais": "0,0",
+        "contratos": "30004081ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:44:37:382511",
+      "dataSegundosDiff": 1.691313
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xxwwxzgy7ct0eawhj5ycjwc7y9mtceg2297878",
+      "data": "18/07/2024 09:45:30:500323",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:45:29:225717",
+      "dataSegundosDiff": 1.274606
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "d3dmfbfppcsyru89ftfeexou8p0laad2235939",
+      "data": "18/07/2024 09:46:11:098388",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:46:10:035630",
+      "dataSegundosDiff": 1.062758
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dmn8dg6bpjn5gr3apvxxc1wn21bz0ax2267430",
+      "data": "18/07/2024 09:47:32:677024",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:47:30:057155",
+      "dataSegundosDiff": 2.619869
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "jdyawxya0a6mei2kxuz9iwycg5undwa2259955",
+      "data": "18/07/2024 09:48:13:082403",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:48:13:053269",
+      "dataSegundosDiff": 0.029134
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ozcem4g5jaquji3vs2ropdndhagmb1g2346720",
+      "data": "18/07/2024 09:49:20:414437",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:49:20:388816",
+      "dataSegundosDiff": 0.025621
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "6xtxk06tdcl3rx9mrjets47qwynl8n52342052",
+      "data": "18/07/2024 09:50:51:955490",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:50:51:890798",
+      "dataSegundosDiff": 0.064692
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "ylcfeyvt2ledy7cgudwbmjmjsogpmjy2439855",
+      "data": "18/07/2024 09:51:57:921799",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 09:51:57:916842",
+      "dataSegundosDiff": 0.004957
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "s3f0tkkc3got6bcaoi0jvtxdliv0qxx2441325",
+      "data": "18/07/2024 09:54:44:434729",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:54:37:115664",
+      "dataSegundosDiff": 7.319065
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "sxmfmwbqwadd0swpgb8fovxmpkjycno2428016",
+      "data": "18/07/2024 09:54:58:134879",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 09:54:57:775925",
+      "dataSegundosDiff": 0.358954
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "t0dbzwf5updeqevyyu57r6034eynobi2519565",
+      "data": "18/07/2024 09:57:40:979905",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:57:39:450071",
+      "dataSegundosDiff": 1.5298340000000001
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "3qohbej78xx2zzeqbkh7vtsdksxdltl2503729",
+      "data": "18/07/2024 09:59:55:860716",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 09:59:54:330988",
+      "dataSegundosDiff": 1.529728
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rrvriwdgfeoqn37fsz7urnn6zv0kkyf2637562",
+      "data": "18/07/2024 10:00:49:928419",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 10:00:49:864155",
+      "dataSegundosDiff": 0.064264
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "wqghbsggcdb4t2ziyyjcwmzi7sn2crn2626061",
+      "data": "18/07/2024 10:01:13:851152",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "7ktheqlbrusnd8dgn1sab0q2fy9ymxb2545038",
+      "data": "18/07/2024 10:01:46:680871",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 10:01:46:636221",
+      "dataSegundosDiff": 0.04465
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "kfqnxz3hwlrcenzu5ccgwpk8bcaytmx2574585",
+      "data": "18/07/2024 10:03:18:206884",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 10:03:18:144264",
+      "dataSegundosDiff": 0.06262
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "ewueows6fbpmwefj7qeshg3gvjpw4a42570021",
+      "data": "18/07/2024 10:03:37:222790",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41296179ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "eb7aa220-c15f-4fcd-a6fb-d980c91dc110",
+        "valorEntrada": "86,82",
+        "valorDemais": "0,0",
+        "contratos": "41296179ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9pqdyo92lxcrqnjclkyylqqx6jgtehs2621161",
+      "data": "18/07/2024 10:03:46:481674",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wqmp4pwp9ujtzqspjnf0ojzgrpxqprd2672853",
+      "data": "18/07/2024 10:05:01:471811",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:04:57:272594",
+      "dataSegundosDiff": 4.199217
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "ecc1kguaephgpikyewmbetrgqs6brlz2611907",
+      "data": "18/07/2024 10:05:23:608158",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 10:05:23:404225",
+      "dataSegundosDiff": 0.203933
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nygbkdx2374sd2k5xd8jyywprfg3syr2721965",
+      "data": "18/07/2024 10:06:52:948822",
+      "crm": "otherCompanya30",
+      "metodo": "consultaDivida",
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 10:06:52:885960",
+      "dataSegundosDiff": 0.062862
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "trpuoipiammalxzqv1qamr1ts0mfakl2762308",
+      "data": "18/07/2024 10:08:55:456084",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 10:08:55:295597",
+      "dataSegundosDiff": 0.160487
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "hl8hvgijvnbh2oaqp4bisqocibnpgce2836645",
+      "data": "18/07/2024 10:10:20:451094",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:10:19:372477",
+      "dataSegundosDiff": 1.078617
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "aj323b8fmstnsmmnkjpc1pmm7gec9on2738858",
+      "data": "18/07/2024 10:10:36:000193",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:10:33:151331",
+      "dataSegundosDiff": 2.848862
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "gt9x2irw0hnn5bsjl5oyco7kgoiievj2750321",
+      "data": "18/07/2024 10:13:24:515577",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:13:22:693560",
+      "dataSegundosDiff": 1.822017
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "ndvhtzxfii8phhmjdmi7pke1xz29rmk2846080",
+      "data": "18/07/2024 10:14:15:063421",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 10:14:14:946227",
+      "dataSegundosDiff": 0.11719400000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "3myi5jjb6cpjdeveqfz4vtepwpwuhiw2869888",
+      "data": "18/07/2024 10:15:27:842353",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:15:27:310814",
+      "dataSegundosDiff": 0.531539
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ob0lniqlchvuoseefimkqe5eczplyvr3000507",
+      "data": "18/07/2024 10:19:31:499366",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:19:30:985803",
+      "dataSegundosDiff": 0.513563
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "4svhrhbjyrs5azlenuc9ta1gjyxn2bt3107416",
+      "data": "18/07/2024 10:21:30:088182",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:21:30:051743",
+      "dataSegundosDiff": 0.036439
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "wkh0pme6ynpd4bmccewiiws20t7zdnv3055502",
+      "data": "18/07/2024 10:24:26:118232",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 10:24:25:974159",
+      "dataSegundosDiff": 0.144073
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "6xbodtppkane8lsqvqk5jldwz8tkwzb3021354",
+      "data": "18/07/2024 10:26:05:225712",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:26:04:594340",
+      "dataSegundosDiff": 0.631372
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mebrdg6s5aqmfpvesep7rjxzphxbfbq3109601",
+      "data": "18/07/2024 10:28:40:211213",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "34897712ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:28:38:103639",
+      "dataSegundosDiff": 2.107574
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "r2rxkwbdjewvfgsqffyjyvmqghpppip3115755",
+      "data": "18/07/2024 10:29:02:285335",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:29:01:338389",
+      "dataSegundosDiff": 0.946946
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fbssl3vk2ftyfcash15sadrpibqlpra3207496",
+      "data": "18/07/2024 10:29:10:865618",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "37035015ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:29:09:841609",
+      "dataSegundosDiff": 1.024009
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "xccerzmpupv1aulat98u6mbgckdsxh63200565",
+      "data": "18/07/2024 10:31:14:805205",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 10:31:14:646572",
+      "dataSegundosDiff": 0.158633
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "j5ckllvvltbcvjvflmpvsc1fqmcfjx33246529",
+      "data": "18/07/2024 10:31:29:029285",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:31:21:619375",
+      "dataSegundosDiff": 7.40991
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "r7lgmjxt7fcgxvwbzr85ucibcnjvrdz3212820",
+      "data": "18/07/2024 10:31:33:611027",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:31:32:970034",
+      "dataSegundosDiff": 0.6409929999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ydly11regu8m7pclghljose1dtvzxxb3249100",
+      "data": "18/07/2024 10:31:34:956078",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:31:29:037135",
+      "dataSegundosDiff": 5.918943
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "kfvwb9dzonhaba9tvgukckcb5tyws5t3322597",
+      "data": "18/07/2024 10:32:15:625279",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 10:32:15:471022",
+      "dataSegundosDiff": 0.154257
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "icxh9ibnkccvybw6jaa7u7g0jlaqn8y3255837",
+      "data": "18/07/2024 10:33:48:250156",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:33:47:795264",
+      "dataSegundosDiff": 0.45489199999999996
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "32om4l029paoyuu66aqnctrssslthpl3314081",
+      "data": "18/07/2024 10:33:49:384259",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:33:48:169341",
+      "dataSegundosDiff": 1.214918
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nfyzrd0ntvrwpbmstrmxcdgtcquvpbe3260559",
+      "data": "18/07/2024 10:35:28:045012",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:35:22:563802",
+      "dataSegundosDiff": 5.48121
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xpuwvxrhat14bkomyacznoiuhklx0ng3383036",
+      "data": "18/07/2024 10:36:55:001089",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ozkamdby8x0s2bzf7mqvx2keiuli2rz3302014",
+      "data": "18/07/2024 10:37:04:297828",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "35955017ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:37:03:525469",
+      "dataSegundosDiff": 0.772359
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ghymzbsdo5xjdg2bu60pcodwwcgfqo83570391",
+      "data": "18/07/2024 10:45:07:858386",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:45:07:823009",
+      "dataSegundosDiff": 0.035377
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "hn9vobxsoudtcbyvxkatonrms7y0zmz3760667",
+      "data": "18/07/2024 10:53:20:309693",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:53:18:148734",
+      "dataSegundosDiff": 2.160959
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "y4tt55pkzcsmzgoxqqo74esrfgihlzx3672651",
+      "data": "18/07/2024 10:53:26:201602",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:53:24:429464",
+      "dataSegundosDiff": 1.772138
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "uv6b57g9arcourzg71nzox6qnf3nm0i3854019",
+      "data": "18/07/2024 10:53:45:305391",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:53:44:119792",
+      "dataSegundosDiff": 1.185599
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "meiveug9soibyyq0splqtp4t8od2vc63742181",
+      "data": "18/07/2024 10:54:45:849764",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:54:44:618406",
+      "dataSegundosDiff": 1.231358
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wx8b8acuulnhqjeqjucpurrvpxj4fwy3811301",
+      "data": "18/07/2024 10:55:49:378292",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:55:48:114898",
+      "dataSegundosDiff": 1.263394
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rgbvpowwnd1qqiagyija4mpvjkspxhg3805396",
+      "data": "18/07/2024 10:59:44:914066",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 10:59:43:353133",
+      "dataSegundosDiff": 1.560933
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "pd8n5pqmzsmpbiuivy8dmk0cjog95sy3993809",
+      "data": "18/07/2024 11:00:20:576897",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:00:20:549174",
+      "dataSegundosDiff": 0.027723
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qmqu0hxztrujhiergwrxi6ryuxx3ddw3822621",
+      "data": "18/07/2024 11:01:09:877262",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:01:08:686390",
+      "dataSegundosDiff": 1.190872
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "foezVIRTUAL AGENTmeltnpjlwjedqnnw24jixlfs3930844",
+      "data": "18/07/2024 11:01:22:158027",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:01:21:573387",
+      "dataSegundosDiff": 0.58464
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wnxoc01qb3k4rleachbkh7utvsptv533956685",
+      "data": "18/07/2024 11:02:31:987283",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "trcc8yqn3caf5zv8fgeu4mm2xfkxovq3997948",
+      "data": "18/07/2024 11:04:12:363486",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:04:11:805046",
+      "dataSegundosDiff": 0.55844
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "o8havri8dqfa0vkpqtxipnyn1sde0il3924364",
+      "data": "18/07/2024 11:04:41:843480",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "34960077ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "32180b32-64a3-4418-baba-e7c30459f0ee",
+        "valorEntrada": "2,44",
+        "valorDemais": "0,0",
+        "contratos": "34960077ID"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:04:39:396070",
+      "dataSegundosDiff": 2.44741
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fht3xhnn7mdnhhuaxycfamjv511ahai3931068",
+      "data": "18/07/2024 11:05:09:290153",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:05:09:268229",
+      "dataSegundosDiff": 0.021924
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "gqrbhti7m8xxsogxtoxfd30kaw2nd7j4078896",
+      "data": "18/07/2024 11:09:20:936354",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:09:20:474306",
+      "dataSegundosDiff": 0.462048
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "oidhwwvcxj4bpjfkhcfvjpcx2tnhile4068159",
+      "data": "18/07/2024 11:11:20:533117",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:11:19:335652",
+      "dataSegundosDiff": 1.197465
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "s0wxda4gs382rr0mbarydsbhxk0jaki4151375",
+      "data": "18/07/2024 11:12:46:718136",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 11:12:46:600755",
+      "dataSegundosDiff": 0.117381
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "duyqn8k2yngsg9vuq3vrb7hwv9jfrrt4166094",
+      "data": "18/07/2024 11:13:47:194312",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:13:47:155451",
+      "dataSegundosDiff": 0.038861
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "m5ty7x6xgbq7me3tz4ucpxby4hg4sjg4133676",
+      "data": "18/07/2024 11:14:14:048823",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:14:12:435183",
+      "dataSegundosDiff": 1.61364
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bv9ivxfik49sqct7acozlhqbvah1rr84184233",
+      "data": "18/07/2024 11:16:32:829568",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41146153ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "e1fbc875-6d83-45c3-a857-adadc0b426d6",
+        "valorEntrada": "1,57",
+        "valorDemais": "0,0",
+        "contratos": "41146153ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:16:31:443796",
+      "dataSegundosDiff": 1.385772
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "kunrbdanvwojenidebs7ckai5srxkf54277212",
+      "data": "18/07/2024 11:19:22:752527",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 11:19:22:523443",
+      "dataSegundosDiff": 0.229084
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "b120ih26sd48fwipzujogrbprcrcbu04350074",
+      "data": "18/07/2024 11:19:51:715991",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:19:49:815131",
+      "dataSegundosDiff": 1.90086
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "5jbjhvemqzg3bxnonpipozdi3gsi8xm4295428",
+      "data": "18/07/2024 11:22:03:158853",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 11:22:02:991832",
+      "dataSegundosDiff": 0.16702099999999998
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "sjawyivvgtbyiteij3qp3nxljuenzgq4401117",
+      "data": "18/07/2024 11:23:31:681461",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:23:31:092143",
+      "dataSegundosDiff": 0.589318
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "gualwrndjeqt0rbvq0j6a78bi0nxnlw4455958",
+      "data": "18/07/2024 11:26:43:800663",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:26:43:706530",
+      "dataSegundosDiff": 0.094133
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fubceyfndizvdqklgkprmfy2wgwvyps4475136",
+      "data": "18/07/2024 11:28:03:764812",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:27:58:345789",
+      "dataSegundosDiff": 5.419023
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zuku4jipdxzcze8h5hckn3viuzkxngb4679830",
+      "data": "18/07/2024 11:29:33:267865",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:29:33:181170",
+      "dataSegundosDiff": 0.086695
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zse7xzye2mxkykpf9bpnzgwcn9rxb6z4695911",
+      "data": "18/07/2024 11:30:08:474256",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:30:08:432809",
+      "dataSegundosDiff": 0.041447
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "do5xyltja0nwfmf4rzryuzkkk5zhefc4726749",
+      "data": "18/07/2024 11:32:04:357114",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 11:32:04:161891",
+      "dataSegundosDiff": 0.195223
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "5gpchxrz69dkacul4qa9jbgfjoa835b4747505",
+      "data": "18/07/2024 11:38:29:520526",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:38:28:818929",
+      "dataSegundosDiff": 0.701597
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9socl2mkfuasvfcgcxokok0a1n2sxse4893781",
+      "data": "18/07/2024 11:39:06:303929",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:39:05:014781",
+      "dataSegundosDiff": 1.289148
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "i1tjuuqzfaorzdbx7elnvpritpbde4x4918156",
+      "data": "18/07/2024 11:40:09:513057",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "37301341ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:40:08:609913",
+      "dataSegundosDiff": 0.903144
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "7iazrftqrm5ym0cq1sdch8xqhcnjvbb4799874",
+      "data": "18/07/2024 11:40:18:982197",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41295783ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "5c7a5e86-b263-49bc-b2df-573c2c5d598f",
+        "valorEntrada": "0,56",
+        "valorDemais": "0,0",
+        "contratos": "41295783ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:40:17:369982",
+      "dataSegundosDiff": 1.612215
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "0gygchk0rms82kxodfqutv2zmgjy67p4747655",
+      "data": "18/07/2024 11:41:28:302537",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:41:28:204258",
+      "dataSegundosDiff": 0.098279
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fnromsh0ef43atfo9rtmw5wddtny8wf4839991",
+      "data": "18/07/2024 11:42:01:122641",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:42:00:355618",
+      "dataSegundosDiff": 0.767023
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "gynsr5f5mmviqhvdpjs1szd9f1nuvdz4840638",
+      "data": "18/07/2024 11:43:24:589469",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "30080763ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:43:23:853133",
+      "dataSegundosDiff": 0.736336
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "1jtgxwrldbzzf78qfcevra5zyxvfhk44835488",
+      "data": "18/07/2024 11:46:06:445161",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:46:06:332132",
+      "dataSegundosDiff": 0.113029
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qyczdn4annoumwoeoh3bjaejj1ms4de4841410",
+      "data": "18/07/2024 11:46:42:288132",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:46:39:140061",
+      "dataSegundosDiff": 3.148071
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "vblf6gsabmumw81ti5njypwp7bhtkul4973284",
+      "data": "18/07/2024 11:47:03:244855",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 11:47:03:128465",
+      "dataSegundosDiff": 0.11639
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bvhzzlfgci1dadsxubebtxkqf4bhu5f4978338",
+      "data": "18/07/2024 11:47:21:738415",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "41253984ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:47:20:851889",
+      "dataSegundosDiff": 0.886526
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "rh7kgn7dxm4mzuqnalvmwdpitomrhbh4925534",
+      "data": "18/07/2024 11:48:04:695396",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 11:48:04:505499",
+      "dataSegundosDiff": 0.189897
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "yqfxxywoxvrz3xr2gbjewjunpfggbam5109222",
+      "data": "18/07/2024 11:48:43:308951",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "41846342ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:48:41:746667",
+      "dataSegundosDiff": 1.562284
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "hk5h6omlf64ceahvhjmfrndewy8dhxc5070829",
+      "data": "18/07/2024 11:49:02:052347",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:49:00:736285",
+      "dataSegundosDiff": 1.316062
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nnre6qg7hs60ls4xnzhthhqgv4y3ppx4967854",
+      "data": "18/07/2024 11:50:07:290583",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "40780020ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:50:05:158577",
+      "dataSegundosDiff": 2.132006
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "olshknjg2acautubzauf4wmdzgo70ub4968056",
+      "data": "18/07/2024 11:50:26:984486",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:50:20:558521",
+      "dataSegundosDiff": 6.425965
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "07u6nrekjo1ikhfxrb1g90bfsqw7ibp5102911",
+      "data": "18/07/2024 11:58:09:099951",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:58:08:280018",
+      "dataSegundosDiff": 0.819933
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "pppfopnhvum2yxzb67z6q6c5gtpfifm5116065",
+      "data": "18/07/2024 11:59:11:595287",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 11:59:00:283812",
+      "dataSegundosDiff": 11.311475
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "nkz2rt5eme9wi8gfgoxyyixx5yirljs5150796",
+      "data": "18/07/2024 12:00:30:227784",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 12:00:30:037712",
+      "dataSegundosDiff": 0.190072
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wh0gdklh9pnhyzrikmcfqrrxsjagldh5232910",
+      "data": "18/07/2024 12:01:41:566402",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "41181429ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:01:39:602983",
+      "dataSegundosDiff": 1.963419
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "5navhlrr6aqjjng5pbdkxuc0rvtyxtk5162744",
+      "data": "18/07/2024 12:01:48:992998",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:01:44:216657",
+      "dataSegundosDiff": 4.776341
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "n2mnbzjlyy8yndfoins2lkylsi6ye8j5260612",
+      "data": "18/07/2024 12:02:56:087735",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:02:55:838110",
+      "dataSegundosDiff": 0.24962499999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "r1zv3kqqfv8mwz2kqd9aqhe4rpsqos95193608",
+      "data": "18/07/2024 12:06:34:284225",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:06:33:782910",
+      "dataSegundosDiff": 0.501315
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "gj6mmbueh77795rf7awszlr440pnfls5269464",
+      "data": "18/07/2024 12:07:52:225880",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:07:45:993295",
+      "dataSegundosDiff": 6.232585
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qydgz2l3e0dewu9wbiczmdqqwqqrhjw5456769",
+      "data": "18/07/2024 12:07:53:543543",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:07:52:953569",
+      "dataSegundosDiff": 0.589974
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "3rvuaflglruxob2b4da3h2q1vczypp35479460",
+      "data": "18/07/2024 12:08:47:021873",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:08:42:621670",
+      "dataSegundosDiff": 4.400203
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "h1gzp5kl4hotlj6zgnwzelr0w6omddl5318939",
+      "data": "18/07/2024 12:14:32:006379",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "38688015ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "f7012cf8-5455-4d71-b60a-641c0c87ba86",
+        "valorEntrada": "2,47",
+        "valorDemais": "0,0",
+        "contratos": "38688015ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:14:29:921629",
+      "dataSegundosDiff": 2.08475
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qwrjxjmopttzoyxqxjpf5czfshmwldz5430019",
+      "data": "18/07/2024 12:18:20:917634",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:18:20:761209",
+      "dataSegundosDiff": 0.156425
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mwdgnqtalumocebud4rugcl6lkv6smh5585042",
+      "data": "18/07/2024 12:19:53:645627",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:19:34:041235",
+      "dataSegundosDiff": 19.604392
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "unuf6aigw2a3ljhgi0nge7g3xbm1qgt5704568",
+      "data": "18/07/2024 12:20:32:373824",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:20:25:299301",
+      "dataSegundosDiff": 7.074523
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qqu0uqadmujhptradddrwhaa7l9otvp5489824",
+      "data": "18/07/2024 12:23:17:053448",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41009233ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "32011a3c-d9e3-4e2d-b74b-dd98feaec538",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41009233ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:23:13:015794",
+      "dataSegundosDiff": 4.037654
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "i4j1phn1a6rtnt1uldlhcy7sbd6tjy05560386",
+      "data": "18/07/2024 12:23:23:273395",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41009437ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "edbda2c9-b71a-4232-a201-a363ac94f043",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41009437ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:23:13:014653",
+      "dataSegundosDiff": 10.258742
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "t6g4bioxmjhexovhjmxz9rkglqma4qg5597828",
+      "data": "18/07/2024 12:24:32:630220",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:24:21:689694",
+      "dataSegundosDiff": 10.940526
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "kkyotjehypmvkojivrthsmspd3fatv85865062",
+      "data": "18/07/2024 12:27:19:236481",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:27:19:058801",
+      "dataSegundosDiff": 0.17768
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "3szt7aay6lhpgf6j5jpyocatnrce72y5644460",
+      "data": "18/07/2024 12:29:00:116641",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:28:59:983192",
+      "dataSegundosDiff": 0.13344900000000004
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "0ghjy3kiz2dndcqfpkqlouvgktsjeab5661532",
+      "data": "18/07/2024 12:29:29:138351",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:29:29:076817",
+      "dataSegundosDiff": 0.061534
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "yxux6dcuugwq7x5bh4ejxlfcpk3ickx5626565",
+      "data": "18/07/2024 12:29:53:167168",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "36849780ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "14e5b334-5240-4fe1-b526-8d13cb1d6d4e",
+        "valorEntrada": "1,12",
+        "valorDemais": "0,0",
+        "contratos": "36849780ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:29:31:953788",
+      "dataSegundosDiff": 21.21338
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ymwoqoa3wzypkewfn1ep89hmcr8gdxt5813999",
+      "data": "18/07/2024 12:30:13:594931",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:30:13:481041",
+      "dataSegundosDiff": 0.11389
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "4iflxlsft8tkqeehmwpzr8xiscx6lvx5968019",
+      "data": "18/07/2024 12:31:42:700927",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 12:31:42:696931",
+      "dataSegundosDiff": 0.003996
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dfidzbrarsmv5g3j8jhr3gqi8at6ef95723051",
+      "data": "18/07/2024 12:32:22:317056",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:32:21:979694",
+      "dataSegundosDiff": 0.33736200000000005
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ld20dmhut14e46gnd8gmlh8eys7dslp5798866",
+      "data": "18/07/2024 12:32:37:445958",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:32:34:355270",
+      "dataSegundosDiff": 3.090688
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "hiree5mi8uzyxb8oidgfydev5wymlzp5930371",
+      "data": "18/07/2024 12:34:45:339126",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:34:45:040083",
+      "dataSegundosDiff": 0.299043
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qesty8pllftaqdlkqyzeotslis3zw7u6004740",
+      "data": "18/07/2024 12:37:27:138645",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:37:21:396834",
+      "dataSegundosDiff": 5.741811
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "l9tjgsd8rn6srendqtkxiua3udtvmhw6077587",
+      "data": "18/07/2024 12:42:55:249338",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ar72dw9ndpccoie6xlkvzficsjzjkru6105106",
+      "data": "18/07/2024 12:44:38:499150",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 12:44:32:923863",
+      "dataSegundosDiff": 5.575287
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "iqfcoqzcpopkgwhozy65fwwzwnsgtox6551997",
+      "data": "18/07/2024 13:02:58:190789",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 13:02:58:181730",
+      "dataSegundosDiff": 0.009059
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "iliyw5s9heo8bqrhliu6rzdxhzvn8zr6711155",
+      "data": "18/07/2024 13:11:26:044952",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:11:15:942908",
+      "dataSegundosDiff": 10.102044
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "lzmlfzdhkqx46nc5sa8i7ef0sdztmtv6742004",
+      "data": "18/07/2024 13:16:10:747758",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 13:16:10:569833",
+      "dataSegundosDiff": 0.177925
+    },
+    {
+      "mensagem": "Undefined offset 1",
+      "callid": "rviefsvvkuzxmpiant3tamaoym46ekb6857842",
+      "data": "18/07/2024 13:17:41:960631",
+      "crm": "otherCompanya30",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "carteiraCodigo": "[0].carteiraCodigo",
+        "clienteCodigo": "[0].clienteCodigo",
+        "dataEntrada": "19/07/2024",
+        "parcelas": "[0].parcelas"
+      },
+      "fila": "4384 - VIRTUAL AGENT-otherCompany-AV",
+      "carteira": "otherCompany",
+      "datafinal": "18/07/2024 13:17:41:943922",
+      "dataSegundosDiff": 0.016709
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "cg1kkungau7kyz0fqqr0sujd3e7zfdy7314227",
+      "data": "18/07/2024 13:35:55:145488",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:35:53:356689",
+      "dataSegundosDiff": 1.788799
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "bvxpwnu8jg3bdf2zirn1hbtn8nsmci17315913",
+      "data": "18/07/2024 13:40:37:746398",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 13:40:37:457341",
+      "dataSegundosDiff": 0.289057
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nl57pzmxqzyfzmiz6m2mpgaomiikbbd7350334",
+      "data": "18/07/2024 13:42:32:892313",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ppj4msawjhhcdm64t5ir1hkpyydgq0b7839961",
+      "data": "18/07/2024 13:53:36:714465",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:53:36:437410",
+      "dataSegundosDiff": 0.277055
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "edkxfed9hdtzp1lc8afutb1lboah4gk7842382",
+      "data": "18/07/2024 13:53:41:646049",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:53:39:541919",
+      "dataSegundosDiff": 2.10413
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "wr4wiboe1itwsq9amgmglhz5nrttaao7497366",
+      "data": "18/07/2024 13:55:11:961811",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:55:11:108645",
+      "dataSegundosDiff": 0.853166
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "e7fxiba7o2tduv0eqmjbxufvdtm8jz07536700",
+      "data": "18/07/2024 13:55:30:022314",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 13:55:29:806069",
+      "dataSegundosDiff": 0.21624500000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "pbdunek1nplen0kmvdnn304age3a7my7918107",
+      "data": "18/07/2024 13:57:59:592491",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:57:52:632573",
+      "dataSegundosDiff": 6.959918
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xs3sgj7zqlqqzn4fc8esb5ea9blcrzd7795050",
+      "data": "18/07/2024 13:59:10:341298",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:59:08:320274",
+      "dataSegundosDiff": 2.021024
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ynpfdapqmfv6hyffhvx4uqj79s7vchz7618159",
+      "data": "18/07/2024 13:59:30:364272",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 13:59:27:869464",
+      "dataSegundosDiff": 2.494808
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bgzzpj95iobmtdwfiss6wkzhoqhy8e07839103",
+      "data": "18/07/2024 14:01:46:690286",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:01:46:551852",
+      "dataSegundosDiff": 0.138434
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "nk6wgcqbnvmsdgvlfabvgx6qlnartxy7661070",
+      "data": "18/07/2024 14:02:57:163498",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 14:02:56:979261",
+      "dataSegundosDiff": 0.18423699999999998
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9zwbrnjqtx5ex6ep0s4y8ses5fyrnqd7679679",
+      "data": "18/07/2024 14:04:15:888930",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "33895027ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:04:15:122512",
+      "dataSegundosDiff": 0.766418
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ago91qwljamohovlrbcohxfzxgqlhw77872596",
+      "data": "18/07/2024 14:04:28:531598",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:04:28:334829",
+      "dataSegundosDiff": 0.196769
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dh5dj9iadpmgpvk0odjzysdx7fxewhs7769999",
+      "data": "18/07/2024 14:04:49:362424",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "f081foilelwrmyhcjnpzzwud4vvjkgs7782233",
+      "data": "18/07/2024 14:05:33:311616",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:05:31:793828",
+      "dataSegundosDiff": 1.517788
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "oy4fxkuyeedgdkvzzpgajqe3yz3uqu57747597",
+      "data": "18/07/2024 14:09:32:623847",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:09:32:351731",
+      "dataSegundosDiff": 0.272116
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "5mhbpl1kadymkesbinjjbd9xttz7jl57939044",
+      "data": "18/07/2024 14:09:38:815051",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:09:38:410920",
+      "dataSegundosDiff": 0.404131
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "uth07hnlvfwfgcf65lzh09fxiqtnwaa7855527",
+      "data": "18/07/2024 14:10:41:010751",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:10:40:784290",
+      "dataSegundosDiff": 0.22646100000000002
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "nrqkovdbmfa0udwdbw6pxaij8uvlamw7868233",
+      "data": "18/07/2024 14:17:17:895832",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 14:17:17:754780",
+      "dataSegundosDiff": 0.141052
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "651ikhuqb5cnckdlynp9hgm6qhlvkos8073344",
+      "data": "18/07/2024 14:23:41:276619",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:23:37:924788",
+      "dataSegundosDiff": 3.351831
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rn58k6wgarc5y7zelgqom3gfzryxjj48115113",
+      "data": "18/07/2024 14:25:02:486983",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:24:57:672721",
+      "dataSegundosDiff": 4.814262
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zcabtfhdcascbbn6zsbmp0muawsjtp58211093",
+      "data": "18/07/2024 14:30:55:572599",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "jrtvbkwyaqjjbltnadgucxea0uj3qqx8201996",
+      "data": "18/07/2024 14:32:42:214358",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:32:41:672301",
+      "dataSegundosDiff": 0.542057
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "s6emmvrh8pclmu4tfzhhxabhi2dloby8391949",
+      "data": "18/07/2024 14:34:57:388076",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:34:56:074277",
+      "dataSegundosDiff": 1.313799
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vckru42ej6dmzgnfwrsmphqdulm4dbc8284845",
+      "data": "18/07/2024 14:35:58:387175",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "30097035ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:35:56:190625",
+      "dataSegundosDiff": 2.1965500000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "s4xtdixtzypqvcilrdxwqr7fgsxu4ya8327130",
+      "data": "18/07/2024 14:37:29:192211",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:37:27:947193",
+      "dataSegundosDiff": 1.245018
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "voo6tarps3kjzyvxmuwjaftgl3v6ndh8608641",
+      "data": "18/07/2024 14:38:04:601986",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:38:03:521999",
+      "dataSegundosDiff": 1.079987
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "8qgzrpgodu5xgq7e6yip393klbuw0un8483756",
+      "data": "18/07/2024 14:40:10:397421",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:40:10:344913",
+      "dataSegundosDiff": 0.052508
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "tzpmm29oqreclsylhkt8qfecg8xlry18687577",
+      "data": "18/07/2024 14:42:38:530927",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:42:37:530795",
+      "dataSegundosDiff": 1.000132
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "3tu14vulzk2dskbnjwtxvh8rifjqwwr8699314",
+      "data": "18/07/2024 14:43:09:862344",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:43:09:804901",
+      "dataSegundosDiff": 0.057443
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "16nki4nqawzrli3xppegivu4kvqiezw8719159",
+      "data": "18/07/2024 14:44:22:491785",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:44:18:659926",
+      "dataSegundosDiff": 3.831859
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "8ylkbq9wz7zec2dnneoufcckqbojfv28550025",
+      "data": "18/07/2024 14:44:29:737150",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:44:24:390962",
+      "dataSegundosDiff": 5.346188
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ipor4rdcuedygflo1deteko3ozdbvdq8370974",
+      "data": "18/07/2024 14:45:41:233731",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:45:41:202123",
+      "dataSegundosDiff": 0.031608
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bj4t7oxrtsqcyr2hkcbqzs6xk2tbm1a8791668",
+      "data": "18/07/2024 14:48:38:167811",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:48:32:754926",
+      "dataSegundosDiff": 5.412885
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9gzzsbj6zckp5l3gmbxoehqxpcfervh8425340",
+      "data": "18/07/2024 14:48:45:080011",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:48:44:627769",
+      "dataSegundosDiff": 0.45224200000000003
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "4e8m7pqbil7zdutgmp0vdx19mnrhbx18636599",
+      "data": "18/07/2024 14:49:27:875004",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "khjlmhcfqm7szfd6b9mbdq7hsjhoksj8667367",
+      "data": "18/07/2024 14:50:54:985222",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:50:54:848530",
+      "dataSegundosDiff": 0.136692
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "dl4d4hgw6hf5txgr0fy757j8a6ak9oq8470947",
+      "data": "18/07/2024 14:51:41:364080",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 14:51:41:030060",
+      "dataSegundosDiff": 0.33402
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "16eb5ye33dhodl0qp5sgja3bayoyfpg8592951",
+      "data": "18/07/2024 14:53:24:206270",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 14:53:24:103330",
+      "dataSegundosDiff": 0.10294
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "j3lgssjgfvtggf1p1js2q1cu7cocqfn8676121",
+      "data": "18/07/2024 14:58:26:311278",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 14:58:22:526337",
+      "dataSegundosDiff": 3.784941
+    },
+    {
+      "mensagem": "Nenhuma duvida foi encontrada. -> Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "3kdqsmqpvuilg2bqz0pql35aq6ktta68698540",
+      "data": "18/07/2024 14:59:52:978676",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 14:59:52:797804",
+      "dataSegundosDiff": 0.180872
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "odsenb1yjeuxo7ww2rqj15xebca0swg8822856",
+      "data": "18/07/2024 15:00:19:196088",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:00:17:439599",
+      "dataSegundosDiff": 1.756489
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "maune9pjkcxapoifsj1avgzkjyrg9339062684",
+      "data": "18/07/2024 15:04:31:328037",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:04:29:941090",
+      "dataSegundosDiff": 1.3869470000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "wwbhi3ccwwbso687zjehuxpukuoprz68784135",
+      "data": "18/07/2024 15:04:53:384219",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:04:53:171157",
+      "dataSegundosDiff": 0.213062
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "kq3omoxcbibpzzkdsuhbo8ek7evqoxx9093278",
+      "data": "18/07/2024 15:07:03:547789",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:07:02:212872",
+      "dataSegundosDiff": 1.334917
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vvtryetx2hvdhk1ey3kfmgjtj2a8ydy8954281",
+      "data": "18/07/2024 15:08:35:042135",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:08:33:418321",
+      "dataSegundosDiff": 1.6238139999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "775q0n4gpls2pv48x1eruyple71jbfm8878094",
+      "data": "18/07/2024 15:10:37:779463",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:10:36:726260",
+      "dataSegundosDiff": 1.053203
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "mu9nfxrhtpfdqn4qxwlimppl7dkxgro8994286",
+      "data": "18/07/2024 15:10:42:442943",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:10:42:403498",
+      "dataSegundosDiff": 0.039445
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "a2qvocvyb5zl1zirix3b03eqwdmdtab8978426",
+      "data": "18/07/2024 15:12:12:054590",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41295522ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "035ef0fd-fd35-4205-b104-8f1bc01da551",
+        "valorEntrada": "21,21",
+        "valorDemais": "0,0",
+        "contratos": "41295522ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:12:10:589861",
+      "dataSegundosDiff": 1.464729
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "cmwklzse3nydrjolyxhvhmux8sbueuy8998601",
+      "data": "18/07/2024 15:13:00:817993",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "kyujfxqlvgxwf4u2boeje4g6xsdfkcv9212798",
+      "data": "18/07/2024 15:13:13:200057",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:13:13:033341",
+      "dataSegundosDiff": 0.166716
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "egxst56p5eyayz1b8l2dpx2arazdzgt9199061",
+      "data": "18/07/2024 15:13:16:914311",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "yocdk5hlkgegzkjq2v7gendritb3cj79186119",
+      "data": "18/07/2024 15:13:27:609550",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "paljqh51cikkhck49w3m5clpg6plikq8798832",
+      "data": "18/07/2024 15:13:30:972082",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "fo03ndhoxvvagsks7wigqnz0e2nnpoe9181357",
+      "data": "18/07/2024 15:13:31:076079",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "ksfdeyqlr697cftnzoly4vwppspjce29038448",
+      "data": "18/07/2024 15:19:43:059328",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:19:42:737520",
+      "dataSegundosDiff": 0.321808
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ltoyngdmov01baly3wl4qiiqvrcewe88963659",
+      "data": "18/07/2024 15:21:53:392890",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:21:53:356295",
+      "dataSegundosDiff": 0.036595
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "es6fznxeyeniznanmk8oglp8aheuq4i8965591",
+      "data": "18/07/2024 15:22:20:405334",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:22:19:233998",
+      "dataSegundosDiff": 1.171336
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "oq8sqdlkzpjuivyiq2v2hyjc7bppqks9225348",
+      "data": "18/07/2024 15:24:53:562242",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:24:52:694943",
+      "dataSegundosDiff": 0.867299
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dc1kfmufzwuca1nua9ksp7jrkg96hdl9306603",
+      "data": "18/07/2024 15:29:32:529212",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:29:32:478351",
+      "dataSegundosDiff": 0.050861
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "g95wfujcsupusyfreyerpu7uh5g8ueb9307660",
+      "data": "18/07/2024 15:29:58:788048",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:29:57:375582",
+      "dataSegundosDiff": 1.412466
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "7edv5ma0wxvuqby2nosftkbamdtgl9g9237965",
+      "data": "18/07/2024 15:32:24:701807",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:32:24:517393",
+      "dataSegundosDiff": 0.184414
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "thiffcbn35xrqjud33qjc2rlmnhqheg9249510",
+      "data": "18/07/2024 15:33:04:102024",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:33:03:532836",
+      "dataSegundosDiff": 0.569188
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "2tvu1rzjlr6fsj14bzueuo2tmhfvglc9555031",
+      "data": "18/07/2024 15:33:27:524204",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:33:27:427175",
+      "dataSegundosDiff": 0.097029
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bvk13ef6drwg4to7jd7hvqqk88bpmya9153155",
+      "data": "18/07/2024 15:33:58:345823",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:33:58:227207",
+      "dataSegundosDiff": 0.118616
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "q8bmwfv8umi60mnr5d3ju6qljgjhlle9523127",
+      "data": "18/07/2024 15:34:00:783337",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:33:59:855414",
+      "dataSegundosDiff": 0.927923
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wcn11aoffebltuz90vw1owwrltap8ux9156078",
+      "data": "18/07/2024 15:34:14:673326",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:34:13:211125",
+      "dataSegundosDiff": 1.4622009999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "lozcjmaurmx5hao66hgeg7ucgbaepsa9271408",
+      "data": "18/07/2024 15:34:32:220399",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:34:32:011057",
+      "dataSegundosDiff": 0.209342
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "5qa2x56ofdttfpnjm4anmz2lu4ltxzm9400672",
+      "data": "18/07/2024 15:35:20:486382",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:35:17:634270",
+      "dataSegundosDiff": 2.852112
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "4whuxsuq3w8x4nqsvrra0g06fv0wlqi9696699",
+      "data": "18/07/2024 15:42:20:543239",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:42:17:643510",
+      "dataSegundosDiff": 2.899729
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wls67fam5vbyrseockce98rysf9x39u9764054",
+      "data": "18/07/2024 15:45:31:694275",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:45:30:358177",
+      "dataSegundosDiff": 1.336098
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "lxb4l4kzlyshbijkpuyl1ofxdaz605c9350125",
+      "data": "18/07/2024 15:47:04:242057",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "30121436ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "6e4b12e5-1cc1-4a7a-bd71-e1ba7348c529",
+        "valorEntrada": "2,14",
+        "valorDemais": "0,0",
+        "contratos": "30121436ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:47:02:957665",
+      "dataSegundosDiff": 1.284392
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "6nxlnw0v4lgvj4jqdmxhjr3re60nsm69578921",
+      "data": "18/07/2024 15:47:54:779177",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:47:53:869454",
+      "dataSegundosDiff": 0.9097230000000001
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "kipezdthtcam6d2ggcugchiu740xla79521973",
+      "data": "18/07/2024 15:48:52:194737",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:48:52:086116",
+      "dataSegundosDiff": 0.108621
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "zpjviqgfkufpn14oz5xpxobk6psyaun9854644",
+      "data": "18/07/2024 15:50:17:884151",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:50:16:507472",
+      "dataSegundosDiff": 1.376679
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "u5bxn7m79q3ptprsmt4wtrprnjrvuya9620565",
+      "data": "18/07/2024 15:54:52:213241",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:54:50:507041",
+      "dataSegundosDiff": 1.7062
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "yhyhpxpofp9rzzrmrmb1csfogdo1nd59633163",
+      "data": "18/07/2024 15:56:19:386564",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "40694965ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "f8aedd9b-750e-4037-92c0-010ec66d6e4e",
+        "valorEntrada": "2,74",
+        "valorDemais": "0,0",
+        "contratos": "40694965ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:56:18:106680",
+      "dataSegundosDiff": 1.279884
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "egccqymwwv4zk9eafe5i4uwgi1ldgua9963425",
+      "data": "18/07/2024 15:56:39:558868",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:56:37:065619",
+      "dataSegundosDiff": 2.493249
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "8tdr70zxp1uexgswryu7lykue0pqhai9559529",
+      "data": "18/07/2024 15:58:04:326659",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:58:04:257386",
+      "dataSegundosDiff": 0.069273
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "i8bqf3solh0b4loro05vrvir1tzyu3q9566728",
+      "data": "18/07/2024 15:58:37:293396",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:58:36:967271",
+      "dataSegundosDiff": 0.326125
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ufwihtg3kchky1dkxlj9k6g63xnydte9551457",
+      "data": "18/07/2024 15:58:41:684910",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "38939646ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "4f20e74d-4112-4b7c-ab75-7f286d101cb0",
+        "valorEntrada": "1,61",
+        "valorDemais": "0,0",
+        "contratos": "38939646ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 15:58:40:555994",
+      "dataSegundosDiff": 1.128916
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "y27mg5uww0ah5yylhs5tytuerf3sivq9688612",
+      "data": "18/07/2024 15:59:16:014603",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 15:59:15:883404",
+      "dataSegundosDiff": 0.13119899999999995
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "54dczpokioicnmpygxdtwveyfcsajqk9990956",
+      "data": "18/07/2024 16:00:18:274481",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:00:16:044206",
+      "dataSegundosDiff": 2.230275
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "elq7hvdabwhvsnw0i85j87b5qvp8e8f10006694",
+      "data": "18/07/2024 16:01:42:711629",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:01:41:338875",
+      "dataSegundosDiff": 1.372754
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wtfvuw3aavnmxjykymxytcs8uscyjum9839041",
+      "data": "18/07/2024 16:04:42:323846",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:04:41:303148",
+      "dataSegundosDiff": 1.020698
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "jbv3jwe8xzsyjtanwva0djsxoob17nd9651955",
+      "data": "18/07/2024 16:10:38:874070",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41009281ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "45886da8-452f-4204-9313-df905cf98891",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41009281ID"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:10:37:659824",
+      "dataSegundosDiff": 1.214246
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "efiyjhpno5vreyfpdqexmdgvr8suck910108347",
+      "data": "18/07/2024 16:10:39:100928",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:10:38:011070",
+      "dataSegundosDiff": 1.089858
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "oovtejrbusjfpttvuqgpjj83xze42zj9966241",
+      "data": "18/07/2024 16:13:17:809021",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:13:17:669520",
+      "dataSegundosDiff": 0.139501
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "w09fdxc1do2oszqflpcin2htvdgd4ut9862951",
+      "data": "18/07/2024 16:15:25:129250",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vs8yctklkpvdepfd28ir3s8r97hgezd9894871",
+      "data": "18/07/2024 16:16:57:142815",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "38937806ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:16:56:348358",
+      "dataSegundosDiff": 0.794457
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fahvyv8izbog1w0ugbdfgfgotyxv3zs10241315",
+      "data": "18/07/2024 16:18:51:224133",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "38939721ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:18:49:452744",
+      "dataSegundosDiff": 1.771389
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "imrmpfdy1wuvcnvyqsm7twlqdqftqwp9856914",
+      "data": "18/07/2024 16:22:00:296412",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:21:57:032874",
+      "dataSegundosDiff": 3.263538
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "tixwa3xaq8i5bxls73zrhlcaddnuvob10070216",
+      "data": "18/07/2024 16:22:10:829560",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:22:09:535898",
+      "dataSegundosDiff": 1.2936619999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "uxvmkkhi2wgkdzf5gjzlfp44zhkrt9710322357",
+      "data": "18/07/2024 16:23:04:559019",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:23:04:522743",
+      "dataSegundosDiff": 0.036276
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "7htvkkbxjkfjbfwhrqzivcb1fvbuxcy10197329",
+      "data": "18/07/2024 16:27:24:555081",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 16:27:24:303230",
+      "dataSegundosDiff": 0.251851
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "036cg5awfv3efpvtk98nwl6amz1biup10063547",
+      "data": "18/07/2024 16:29:41:695426",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:29:40:839616",
+      "dataSegundosDiff": 0.85581
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "heee3yqalqlqdyxylrc1sp19puk7ocy10270278",
+      "data": "18/07/2024 16:32:37:930250",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 16:32:37:775181",
+      "dataSegundosDiff": 0.155069
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "9ma2dgVIRTUAL AGENTrahdoprrcmnzjjym692mb210297366",
+      "data": "18/07/2024 16:33:59:320677",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 16:33:59:152292",
+      "dataSegundosDiff": 0.168385
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "einddup7p5ufowexpa8grrn1bq9lq2o10528098",
+      "data": "18/07/2024 16:36:00:657989",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 16:36:00:504472",
+      "dataSegundosDiff": 0.153517
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "nibbgezi76yfnfsbco6maufibepcqg510197045",
+      "data": "18/07/2024 16:36:03:584420",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 16:36:03:318680",
+      "dataSegundosDiff": 0.26574
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "w9xvddjv3ftyrkgzed6wonml2gbgptf10069984",
+      "data": "18/07/2024 16:36:32:566738",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 16:36:32:393061",
+      "dataSegundosDiff": 0.173677
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ppfj6ggnoze59vubmww1vky7e0bmrnk10353840",
+      "data": "18/07/2024 16:37:44:417872",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:37:42:104930",
+      "dataSegundosDiff": 2.312942
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "re1yalfmei0bc017twdas5jea7dlcic10242675",
+      "data": "18/07/2024 16:39:25:102783",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 16:39:24:920066",
+      "dataSegundosDiff": 0.18271700000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "x0pkduauawbtivs1vh5s2gbg6imeznh10282641",
+      "data": "18/07/2024 16:41:52:191122",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:41:52:148772",
+      "dataSegundosDiff": 0.04235
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "bdr1fqvdbvhdc2jbkmn8sfhhgfggc5y10167571",
+      "data": "18/07/2024 16:42:11:996180",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:42:11:944215",
+      "dataSegundosDiff": 0.051965
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "k5ex6potoqtu4v5xptoqcu1hzejyxso10486545",
+      "data": "18/07/2024 16:45:50:735604",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:45:50:687927",
+      "dataSegundosDiff": 0.047677
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "laeycwpbjivrznwk6fnscwtqrpvxtnd10435369",
+      "data": "18/07/2024 16:52:15:812841",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:52:14:568236",
+      "dataSegundosDiff": 1.244605
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "uo7gt4udrahkebrhqia7smt8nsghgkk10654878",
+      "data": "18/07/2024 16:57:27:390363",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:57:26:119010",
+      "dataSegundosDiff": 1.271353
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "opeinsy1duerlh0oecfcb1x28ivlqrd10637541",
+      "data": "18/07/2024 16:57:33:733144",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "38886315ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "90e003f1-0697-4344-9a67-a883b9c32211",
+        "valorEntrada": "2,14",
+        "valorDemais": "0,0",
+        "contratos": "38886315ID"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 16:57:32:360606",
+      "dataSegundosDiff": 1.372538
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "5w1bhndkepzu1uy6z8srqjus3zh3d7d10464676",
+      "data": "18/07/2024 17:02:38:677876",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:02:38:633704",
+      "dataSegundosDiff": 0.044172
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "7c9xko6oou3izf3s9hoypvyjd0pssxs10949980",
+      "data": "18/07/2024 17:04:17:112069",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:04:16:559699",
+      "dataSegundosDiff": 0.55237
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rxsalkoaaetx7uekicgohxf5makvv5810503953",
+      "data": "18/07/2024 17:06:28:914636",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:06:27:827914",
+      "dataSegundosDiff": 1.086722
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "eg1ztti3xzjt4etm52q6hehdbdncoig10790463",
+      "data": "18/07/2024 17:08:00:268943",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:08:00:137165",
+      "dataSegundosDiff": 0.131778
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "qxkmotjvqmlllm5yvot2lnkwmjdh1uw10842338",
+      "data": "18/07/2024 17:11:36:104166",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:11:35:769962",
+      "dataSegundosDiff": 0.33420399999999995
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "cu87ohvuwkprbgjxw1j31pgl1nth4zs10702716",
+      "data": "18/07/2024 17:12:06:916944",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:12:05:457087",
+      "dataSegundosDiff": 1.459857
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "twwseaux1fdpmwc2lvpabuxbdqxt6hm10870001",
+      "data": "18/07/2024 17:13:38:070379",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:13:37:908551",
+      "dataSegundosDiff": 0.16182799999999997
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "vwbshctglzbt2gj7w14gydwabwlx7ny10673088",
+      "data": "18/07/2024 17:18:50:696633",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:18:50:552970",
+      "dataSegundosDiff": 0.143663
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "gbh6vakplc4vgjp4i37na9iz0d1vvux10802482",
+      "data": "18/07/2024 17:19:05:420602",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:19:05:293797",
+      "dataSegundosDiff": 0.126805
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "lkhgkhnnbbagy4gsx4vcu4eifgfqqi311008889",
+      "data": "18/07/2024 17:25:53:847355",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "41254953ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:25:52:943048",
+      "dataSegundosDiff": 0.904307
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "0ibtq7sibnooofvgzoa8ybjituit0t610920717",
+      "data": "18/07/2024 17:30:46:636637",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "40192145ID",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:30:44:960770",
+      "dataSegundosDiff": 1.675867
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9hxnbhxaolcjio2mysvwhkbhdflekuh11318667",
+      "data": "18/07/2024 17:34:03:604939",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:34:01:050768",
+      "dataSegundosDiff": 2.554171
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "mhyaujybujnha55sq7xzv8itrellkqw11363903",
+      "data": "18/07/2024 17:39:35:414705",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:39:34:088266",
+      "dataSegundosDiff": 1.326439
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "rsqpc4pmhupes4jhdwamd8g1xkkpzho10900068",
+      "data": "18/07/2024 17:40:14:866994",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:40:13:823878",
+      "dataSegundosDiff": 1.043116
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "bliunu8qilq31z17lb1tevxlymhehuy10925639",
+      "data": "18/07/2024 17:42:02:785443",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:42:02:675965",
+      "dataSegundosDiff": 0.109478
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "5maq5ivjakfwvublxcjdwekybsc7qiz11199924",
+      "data": "18/07/2024 17:42:22:666370",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:42:20:125471",
+      "dataSegundosDiff": 2.540899
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "98aklccrboj1cgpbpg3ik85ngqayodj11073504",
+      "data": "18/07/2024 17:43:30:098799",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:43:29:956884",
+      "dataSegundosDiff": 0.141915
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nsohwl9vhopj2sy3jrmuy00b9vjbbvf11468689",
+      "data": "18/07/2024 17:47:19:497588",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:47:18:429626",
+      "dataSegundosDiff": 1.067962
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "jhlzxxz8hkelnud5cge2eb3wdoalpcx10986056",
+      "data": "18/07/2024 17:47:44:397634",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:47:44:101272",
+      "dataSegundosDiff": 0.296362
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "b4m08qqakyveako8dtofsy218gqkhds11525414",
+      "data": "18/07/2024 17:52:36:883069",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 17:52:36:756014",
+      "dataSegundosDiff": 0.127055
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "nknozwvzjtgdjwc49sop2sbp3c7kgk511171572",
+      "data": "18/07/2024 17:53:18:462044",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 17:53:18:310001",
+      "dataSegundosDiff": 0.152043
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "motqm0oqaewz3enxgt7e27fhunxsdha11177195",
+      "data": "18/07/2024 17:53:29:504812",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:53:29:346267",
+      "dataSegundosDiff": 0.158545
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "66lhgpdnoghdqb0v0370emzreuvclct11032309",
+      "data": "18/07/2024 17:54:11:890486",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41979342ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "f51f03d5-0b18-4987-af54-6c64a4016a81",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41979342ID"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 17:54:10:826543",
+      "dataSegundosDiff": 1.063943
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "yciflaolgwoqaw7bcbyucpbufug0tni11555644",
+      "data": "18/07/2024 17:54:30:249567",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:54:30:107671",
+      "dataSegundosDiff": 0.141896
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "zbvhqlzw8po1s09hbbjph2f7gntfpns11333455",
+      "data": "18/07/2024 17:54:52:232343",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:54:51:933951",
+      "dataSegundosDiff": 0.298392
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "eecqfqbgsrsmv9j6mehanksphg74kdj11205586",
+      "data": "18/07/2024 17:55:57:231788",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:55:57:058085",
+      "dataSegundosDiff": 0.173703
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "by9cevragefuwspbxrabqfjnekjnvji11087519",
+      "data": "18/07/2024 17:57:42:415483",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 17:57:42:246903",
+      "dataSegundosDiff": 0.16858
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "pjg8moarfw9guqjgep6zftgj295dw0u11616795",
+      "data": "18/07/2024 18:01:11:919762",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:01:11:752600",
+      "dataSegundosDiff": 0.167162
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "fjrrfu9eosr0t6wkm5g4c2hxxvoseej11179850",
+      "data": "18/07/2024 18:09:25:336307",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:09:25:228713",
+      "dataSegundosDiff": 0.107594
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "jiqhi8zahbqvxwnu1nod9k01mtsogsw11326704",
+      "data": "18/07/2024 18:11:06:389388",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:10:59:288978",
+      "dataSegundosDiff": 7.10041
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "s8d13ooocm6uqldnk0yv4xxiqobyz0111726144",
+      "data": "18/07/2024 18:14:02:058962",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:14:00:931746",
+      "dataSegundosDiff": 1.127216
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "m6px54syfukgtv5u2g0ewyqgcnfok4x11224544",
+      "data": "18/07/2024 18:14:04:210156",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:14:04:034652",
+      "dataSegundosDiff": 0.175504
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "xkns1czo8nkez07xjqkkg2h6djrhl6711231449",
+      "data": "18/07/2024 18:15:16:428696",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:15:14:465212",
+      "dataSegundosDiff": 1.963484
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "dwgjkmk0wgcatx6gond1gm5k5s6jc7i11750481",
+      "data": "18/07/2024 18:16:13:739975",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:16:13:574975",
+      "dataSegundosDiff": 0.165
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9gbt0cet2b8nepv8y2wcjafeqjjcffp11378454",
+      "data": "18/07/2024 18:16:18:721365",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:16:15:162484",
+      "dataSegundosDiff": 3.558881
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "0ppbc2yuoybqmijzj7d62dkcy6wrm5e11758563",
+      "data": "18/07/2024 18:17:01:369790",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:17:00:349913",
+      "dataSegundosDiff": 1.019877
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dtdvcip7zz7veccotma6bnpo9tmt1fo11556260",
+      "data": "18/07/2024 18:18:32:917747",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:18:31:850962",
+      "dataSegundosDiff": 1.066785
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "5o8k74znumn7xm0hjjgacmrusjpy25p11243598",
+      "data": "18/07/2024 18:18:37:652656",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:18:36:906244",
+      "dataSegundosDiff": 0.7464120000000001
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "hxhhy9jryvbzifqihin9u25lzxabmx911408746",
+      "data": "18/07/2024 18:19:01:340216",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:19:00:187782",
+      "dataSegundosDiff": 1.152434
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "yjkbsbndeplebnlmrpeab3mdnlc0aas11399088",
+      "data": "18/07/2024 18:20:00:493583",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:19:59:982340",
+      "dataSegundosDiff": 0.511243
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "42mrlqqdwgtr2zcymqm3lwlbfutpmwz11330286",
+      "data": "18/07/2024 18:24:21:311494",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:24:20:995664",
+      "dataSegundosDiff": 0.31583000000000006
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ljl7fntmkc9ucvybrzzb3xqjyn2mxbs11622354",
+      "data": "18/07/2024 18:25:08:945474",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:25:06:872075",
+      "dataSegundosDiff": 2.073399
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "gmhvqhivv3lsdzruqpjb9dw2zkseyxq11387004",
+      "data": "18/07/2024 18:30:04:370834",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:30:04:135363",
+      "dataSegundosDiff": 0.235471
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "eglsnhnvjdn8p2znma8hbepkalj30fx11682109",
+      "data": "18/07/2024 18:30:14:365206",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:30:14:120681",
+      "dataSegundosDiff": 0.244525
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "i1b1siakaecpcksbzrgq8yshc9s14th11695291",
+      "data": "18/07/2024 18:31:30:410256",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4600 - VIRTUAL AGENT - NEGOCIACAO - companyC - FASE 2",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:31:30:254751",
+      "dataSegundosDiff": 0.155505
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "jz6a7m2qlrxs9df2otgc2rffv228nfc11550898",
+      "data": "18/07/2024 18:45:53:466558",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:45:50:257581",
+      "dataSegundosDiff": 3.208977
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "j38k5uie1u3cw30bp4ylyp3k8jscfgb12158396",
+      "data": "18/07/2024 18:54:18:026016",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:54:16:672949",
+      "dataSegundosDiff": 1.353067
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "vgaoieq9bgnmgmjadgmsjqe6z2wkuib11628258",
+      "data": "18/07/2024 18:54:55:564262",
+      "crm": "company2",
+      "metodo": "Geral",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 18:54:54:515650",
+      "dataSegundosDiff": 1.048612
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "4zy11xrb2vplpjke00nradbvqbnpoft11800804",
+      "data": "18/07/2024 18:56:25:182270",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 18:56:25:039290",
+      "dataSegundosDiff": 0.14298
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "prdsdpfvoxifk6w3yupuofileihno3t12212720",
+      "data": "18/07/2024 19:00:35:295521",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41009265ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "88cb1b03-2c07-42e5-8c8d-54eefab2be8c",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41009265ID"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:00:34:258977",
+      "dataSegundosDiff": 1.036544
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "9tpticuwwc3oq0bqa3rbbqbkuiojeje12065586",
+      "data": "18/07/2024 19:09:43:722447",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:09:42:580796",
+      "dataSegundosDiff": 1.141651
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qgtewch4jdfgweqfalghrwb1wdzmkcv11781173",
+      "data": "18/07/2024 19:12:27:477266",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:12:24:910253",
+      "dataSegundosDiff": 2.567013
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "qsfuaq3gi8fuw2892x8ishvd3g7qatk12326269",
+      "data": "18/07/2024 19:13:35:424967",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:13:33:838970",
+      "dataSegundosDiff": 1.5859969999999999
+    },
+    {
+      "mensagem": "Erro na integracao ([Pier Labs] PL-001 - Conta nao encontrada) -> Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "0x4ategyvcqj8w6uiv3ohon1qdlrgra11841174",
+      "data": "18/07/2024 19:19:01:649786",
+      "crm": "companyBapi2",
+      "metodo": "consultaDivida",
+      "fila": "4639 - companyB VIRTUAL AGENT - NEGOCIACAO CRELIC 02",
+      "carteira": "companyB",
+      "datafinal": "18/07/2024 19:19:01:513038",
+      "dataSegundosDiff": 0.136748
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "h2xtykfbymodaqipwbi4vm3h91kqw2s12161537",
+      "data": "18/07/2024 19:21:33:407704",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:21:32:304964",
+      "dataSegundosDiff": 1.10274
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "8b2hyknrbwaogilnw8w85zimm5edirq12066807",
+      "data": "18/07/2024 19:28:51:225693",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:28:50:165298",
+      "dataSegundosDiff": 1.060395
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "dm253vq2bm7bjpft454i5fw93wqybet12144728",
+      "data": "18/07/2024 19:38:47:881534",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:38:46:392975",
+      "dataSegundosDiff": 1.488559
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "qgsffjok8wmsv5igcrsb2j8bhvxc4ph12562352",
+      "data": "18/07/2024 19:41:44:338050",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 19:41:44:098701",
+      "dataSegundosDiff": 0.239349
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "1gyxskaprbxywsuc8tukwatyixfbvde12169356",
+      "data": "18/07/2024 19:42:34:463387",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:42:33:983600",
+      "dataSegundosDiff": 0.47978699999999996
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "wk3yeekooivznakzbqlfdsajb6hqsku12197438",
+      "data": "18/07/2024 19:46:17:511328",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:46:16:219050",
+      "dataSegundosDiff": 1.292278
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ghpikogc0pimqhlh5nsbbaz1n1uuvwt12396649",
+      "data": "18/07/2024 19:51:54:254313",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "fru15phklltmu3jsyozbdhmrce1l27012096069",
+      "data": "18/07/2024 19:52:51:783734",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:52:50:557286",
+      "dataSegundosDiff": 1.226448
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "z87xdkzf2m9w5ttshmsimmgjyzeygvk12645009",
+      "data": "18/07/2024 19:53:06:453067",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:53:05:119386",
+      "dataSegundosDiff": 1.333681
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "z19g72r1duqje2kbnypdlg0epqcvdyj12246703",
+      "data": "18/07/2024 19:53:29:584911",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:53:28:111745",
+      "dataSegundosDiff": 1.473166
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "vttbx7g70qlk9739q2phqkzi2mcoopq12251672",
+      "data": "18/07/2024 19:53:51:640989",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:53:51:593709",
+      "dataSegundosDiff": 0.04728
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "kvrh4reswrbxmsqika11uieab5a2nkx12108236",
+      "data": "18/07/2024 19:54:32:603509",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 19:54:32:561340",
+      "dataSegundosDiff": 0.042169
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "8oaawd1e4zodcwmmobuqkr1moexdcwb12452710",
+      "data": "18/07/2024 20:00:11:835674",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:00:10:547483",
+      "dataSegundosDiff": 1.2881909999999999
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ceivbk996vnudldocxdzz22scbvjxxu12779014",
+      "data": "18/07/2024 20:11:48:726949",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:11:47:352005",
+      "dataSegundosDiff": 1.374944
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Not Found.",
+      "callid": "oaenycvpjjrpctkla4mzoj0ycqkpsis12796150",
+      "data": "18/07/2024 20:13:40:168081",
+      "crm": "companyC",
+      "metodo": "consultaDivida",
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 20:13:39:936848",
+      "dataSegundosDiff": 0.23123300000000002
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "drfuhg0cxg3bpelmptfbhztibu4xzgg12789938",
+      "data": "18/07/2024 20:15:16:827827",
+      "crm": "company2",
+      "metodo": "gravarAcordo",
+      "dados_acordo": {
+        "cpf": "12345678000199",
+        "contrato": "41009080ID",
+        "vencimento": "22/07/2024",
+        "opcaoID": "8961265e-00c8-417d-9bf3-3d4cf6d36171",
+        "valorEntrada": "1,13",
+        "valorDemais": "0,0",
+        "contratos": "41009080ID"
+      },
+      "fila": "4326 - VIRTUAL AGENT company NEGOCIACAO 3 FLX_NOVO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:15:14:917194",
+      "dataSegundosDiff": 1.910633
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "amftrjkpepxgmwzvffyyqegxlvkxw4v12289277",
+      "data": "18/07/2024 20:21:38:511321",
+      "crm": "companyC",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "parcelas_originais": "183574408:841884998:72|183574408:841884999:73|183574408:841885000:74|183574408:841885001:75|183501827:841885002:22|183501827:841885003:23|183501827:841885004:24|183501827:841885005:25|183501827:841885006:26|183501827:841885007:27|183501827:841885008:28",
+        "data_calculo": "2024-07-19 00:00:00"
+      },
+      "fila": "4358 - VIRTUAL AGENT - NEGOCIACAO - companyC",
+      "carteira": "companyC",
+      "datafinal": "18/07/2024 20:20:38:479793",
+      "dataSegundosDiff": 60.031528
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "nbhq1qwotyebpmhe7rqusweoqkx44cs12462884",
+      "data": "18/07/2024 20:26:12:685958",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:26:11:473599",
+      "dataSegundosDiff": 1.212359
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "cgykof0xnwenhp4pujkridv9kmapmm012324360",
+      "data": "18/07/2024 20:29:18:785280",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:29:18:726214",
+      "dataSegundosDiff": 0.059066
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "ue4t10asxhgy6rkkg6k9xlylgglutdx12354134",
+      "data": "18/07/2024 20:51:25:320474",
+      "crm": "company2",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "[0].detalhesContratos[0].contrato",
+        "vencimento": "22/07/2024"
+      },
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:51:25:254648",
+      "dataSegundosDiff": 0.065826
+    },
+    {
+      "mensagem": "Necessario informar um valor para o parametro (cpf).",
+      "callid": "7tpxvp3l1quiglectgsgiazmlqgxxon12672267",
+      "data": "18/07/2024 20:53:56:180929",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": "18/07/2024 20:53:56:174068",
+      "dataSegundosDiff": 0.006861
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Bad Request.",
+      "callid": "n1whmsrusas8tkthrewzzh1tgvjfhwi12358040",
+      "data": "18/07/2024 20:55:06:093811",
+      "crm": "company2",
+      "metodo": "consultaDivida",
+      "fila": "4636 - company VIRTUAL AGENT FLX_ANTIGO",
+      "carteira": "company",
+      "datafinal": null,
+      "dataSegundosDiff": null
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (0).",
+      "callid": "59c066e95e040ed81de3c9756ce2acd6",
+      "data": "18/07/2024 21:29:21:186529",
+      "crm": "companyD",
+      "metodo": "consultaProposta",
+      "dados_proposta": {
+        "cpf": "12345678000199",
+        "contrato": "40054758ID",
+        "dataVencimento": "22/07/2024"
+      },
+      "fila": "3081 - RETURN RECEPTIVO",
+      "carteira": "RETURN",
+      "datafinal": "18/07/2024 21:28:21:152216",
+      "dataSegundosDiff": 60.034313
+    },
+    {
+      "mensagem": "Houve um problema de conexao na API do cliente Desconhecido (500).",
+      "callid": "6dbb9bd023a3c6b251197a9f3b2c10ab",
+      "data": "18/07/2024 21:31:04:416942",
+      "crm": "companyD",
+      "metodo": "consultaDivida",
+      "fila": "3081 - RETURN RECEPTIVO",
+      "carteira": "RETURN",
+      "datafinal": "18/07/2024 21:30:49:383277",
+      "dataSegundosDiff": 15.033665
+    }
+  ]
+}
