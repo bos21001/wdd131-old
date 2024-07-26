@@ -179,7 +179,9 @@ await fetchListingDateData(id, query).then(data => {
 
     const methods = data.contagem_metodos;
     const clients = data.contagem_crms;
-    const averageClientErrors = Object.values(clients).reduce((acc, val) => acc + val, 0) / Object.keys(clients).length;
+    // round to the nearest integer
+    const averageClientErrors =  Math.round(Object.values(clients).reduce((acc, val) => acc + val, 0) / Object.keys(clients).length);
+
     const similarErrors = data.contagem_erros_similares;
     const detailedData = data.dados
 

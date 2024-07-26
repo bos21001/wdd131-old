@@ -15,10 +15,10 @@ const listings = {
 };
 
 const headersMap = {
-    dates: 'Available Dates',
-    clients: 'Available Clients',
-    campaigns_id: 'Available Campaigns',
-    similar_errors: 'Similar Errors',
+    dates: 'Dates',
+    clients: 'Clients',
+    campaigns_id: 'Campaigns',
+    similar_errors: 'Errors',
 };
 
 function removeLoader() {

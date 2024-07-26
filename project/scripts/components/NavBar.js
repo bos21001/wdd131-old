@@ -4,7 +4,7 @@ export default function NavBar() {
     navBar.innerHTML = `
             <div class="d-flex justify-content-between">
                 <a href="index.html" class="logo-link">
-                    <img alt="ExpertVoice Log logo" src="images/expertlog_logo.png" class="logo-img">
+                    <img alt="ExpertVoice Log logo" src="images/expertlog_logo.png" class="logo-img" width="120.4" height="55.99">
                 </a>
                 <button class="btn bg-white dark-font no-border" id="nav-bar-toggler" aria-label="Menu" type="button">
                     <svg class="bi bi-list" fill="currentColor" height="2em" viewBox="0 0 16 16" width="2em" xmlns="http://www.w3.org/2000/svg">
