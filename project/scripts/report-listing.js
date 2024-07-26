@@ -97,18 +97,18 @@ function renderCardTableDetailedData(header, renderTo, data) {
     const headers = ['View', 'Message', 'Date', 'Client', 'Campaign', 'Call ID'];
 
     const rows = data.map(item => {
-        let view = `<a href="report-listing.html?id=dates&query=${query}" aria-label="Gera um relatório com todos os erros de uma data específica">
-            <svg fill="currentColor" height="1em" viewBox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
-                <path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0"></path>
-                <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8m8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7"></path>
-            </svg>
-        </a>`;
-
         let message = item.mensagem;
         let date = item.data;
         let client = item.crm;
         let campaign = item.fila;
         let callid = item.callid;
+
+        let view = `<a href="report.html?callid=${callid}" aria-label="Gera um relatório com todos os erros de uma data específica">
+            <svg fill="currentColor" height="1em" viewBox="0 0 16 16" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M10.5 8a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0"></path>
+                <path d="M0 8s3-5.5 8-5.5S16 8 16 8s-3 5.5-8 5.5S0 8 0 8m8 3.5a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7"></path>
+            </svg>
+        </a>`;
 
         return [view, message, date, client, campaign, callid];
     });
