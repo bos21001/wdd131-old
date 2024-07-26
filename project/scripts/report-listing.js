@@ -116,7 +116,7 @@ function renderCardTableDetailedData(header, renderTo, data) {
     const table = TableResponsive({headers, rows});
     const card = Card({title: header, cardBody: table});
 
-    renderTo.appendChild(createElementWithContent('div', card, 'centered-div'));
+    renderTo.appendChild(card);
 }
 
 function renderCardTable(header, renderTo, data, headers, subheader=null) {
@@ -198,16 +198,16 @@ await fetchListingDateData(id, query).then(data => {
     const clientsCard = renderCardTable('Clients', containerSmall, clients, ['Client', 'Count'], 'Count by client grouping');
     const similarErrorsCard = renderCardTable('Similar Errors', containerSmall, similarErrors, ['Error', 'Count'], 'Count by error grouping');
 
-    containerSmall.appendChild(createElementWithContent('article', card, 'centered-div'));
+    containerSmall.appendChild(card);
 
     containerSmall.appendChild(createElementWithContent('div', alertCard, 'centered-div'));
 
     const row = createElementWithContent('div', '', 'row');
-    row.appendChild(createElementWithContent('div', methodsCard, 'col'));
-    row.appendChild(createElementWithContent('div', clientsCard, 'col'));
+    row.appendChild(methodsCard);
+    row.appendChild(clientsCard);
     containerSmall.appendChild(row);
 
-    containerSmall.appendChild(createElementWithContent('div', similarErrorsCard, 'centered-div'));
+    containerSmall.appendChild(similarErrorsCard);
     renderCardTableDetailedData('Detailed Data', containerSmall, detailedData);
 
     removeLoader();

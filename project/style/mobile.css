@@ -35,7 +35,7 @@ body {
     font-size: 2rem;
 }
 
-.icon-circled-holder > a {
+a > .icon-circled-holder {
     color: var(--white);
 }
 
@@ -46,6 +46,6 @@ body {
 .icon-link p {
     font-weight: bold;
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin: 0.5rem 0;
 }

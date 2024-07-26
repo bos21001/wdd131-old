@@ -17,6 +17,13 @@ async function fetchReportData(callid) {
     }
 }
 
+function removeLoader() {
+    const loader = document.querySelector('#loading');
+    setTimeout(() => {
+        loader.remove();
+    }, 1500);
+}
+
 function renderBackButton() {
     const containerSmall = document.querySelector('.container-small');
     const backButton = BackButton();
@@ -51,6 +58,7 @@ function renderCardTable(header, renderTo, data, headers, subheader=null) {
 
     return Card({title: header, cardBody: table, subheader: subheader});
 }
+
 await fetchReportData(callid).then(data => {
     console.log(data);
     const body = document.querySelector('body');
@@ -123,4 +131,9 @@ await fetchReportData(callid).then(data => {
     containerSmall.appendChild(hr);
     containerSmall.appendChild(logDataCard);
 
+    removeLoader();
+})
+.catch(err => {
+    console.error(err);
+    removeLoader();
 });

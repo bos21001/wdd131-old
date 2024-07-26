@@ -21,13 +21,6 @@ const headersMap = {
     similar_errors: 'Similar Errors',
 };
 
-function createElementWithContent(tag, content, className) {
-    const element = document.createElement(tag);
-    if (className) element.className = className;
-    element.innerHTML = content;
-    return element;
-}
-
 function removeLoader() {
     const loader = document.querySelector('#loading');
     setTimeout(() => {
@@ -53,7 +46,7 @@ function renderCardTable(id, header, renderTo) {
             const table = TableResponsive({ headers, rows });
             const card = Card({ title: header, cardBody: table });
 
-            renderTo.appendChild(createElementWithContent('div', card, 'centered-div'));
+            renderTo.appendChild(card);
             removeLoader();
         });
 }

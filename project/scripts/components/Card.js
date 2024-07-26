@@ -20,7 +20,7 @@ export  default function Card(props) {
     if (cardBody) {
         const cardBodyElement = document.createElement('div');
         cardBodyElement.classList.add('card-body');
-        cardBodyElement.contentEditable = true;
+        // cardBodyElement.contentEditable = true;
         cardBodyElement.innerHTML = cardBody;
         card.appendChild(cardBodyElement);
     } else {
